@@ -55,4 +55,4 @@
 
 ## 🔗 相关链接
 
-- **GitHub 仓库**：https://github.com/cblberlin/formation-civique
+- **法国公民考试网站**：https://formation-civique.interieur.gouv.fr/
