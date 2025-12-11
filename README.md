@@ -2,19 +2,57 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 法国公民考试内容 - 中法双语版
 
-This contains everything you need to run your app locally.
+这是一个法国公民考试内容的中法双语翻译项目，旨在帮助需要考试的人更好的复习。
 
-View your app in AI Studio: https://ai.studio/apps/drive/1zNSGSkKq6-uGGJWO2GknmbJO8ReiViSk
+## 🤝 需要您的帮助！
 
-## Run Locally
+由于本项目使用了 DeepSeek 进行批量翻译，**错误在所难免**。我们非常需要您的帮助来改进翻译质量！
 
-**Prerequisites:**  Node.js
+### 您可以帮忙：
 
+- ✅ **查找语法错误**：发现中文翻译中的语法问题
+- ✅ **修正翻译错误**：改进不准确或生硬的翻译
+- ✅ **优化表达方式**：让翻译更自然、更符合中文表达习惯
+- ✅ **检查术语一致性**：确保专业术语翻译统一
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 如何贡献？
+
+1. **发现问题**：在阅读内容时，如果发现任何语法错误或翻译问题
+2. **提交 Issue**：在 GitHub 上创建 Issue，描述发现的问题
+3. **直接提交 PR**：如果您知道如何修正，欢迎直接提交 Pull Request！
+
+每一个修正都是对项目的宝贵贡献！🙏
+
+## 🚀 本地运行
+
+**前置要求：** Node.js
+
+1. 安装依赖：
+   ```bash
+   npm install
+   ```
+
+2. 运行应用：
+   ```bash
+   npm run dev
+   ```
+
+3. 在浏览器中打开显示的本地地址（通常是 `http://localhost:5173`）
+
+## 📝 项目说明
+
+本项目包含法国公民教育相关的中法双语内容，涵盖：
+- 共和国的原则与价值观
+- 法国历史与文化
+- 公民权利与义务
+- 以及其他相关主题
+
+## 🙏 致谢
+
+感谢所有帮助改进翻译质量的朋友们！您的每一个建议和修正都让这个项目变得更好。
+
+---
+
+**注意**：本项目内容来源于法国官方公民教育资料，翻译仅供参考。如有疑问，请以原文（法语）为准。
