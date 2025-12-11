@@ -94,3 +94,4 @@ import logoImage from '../images/logo.png';
 - 使用绝对路径时，路径以 `/` 开头（如 `/images/banner.png`）
 - 通过 import 导入的图片会被 Vite 优化处理（压缩、hash 文件名）
 - 建议将图片放在 `public/images/` 目录下，便于管理
+

@@ -119,10 +119,10 @@ export const Layout: React.FC<LayoutProps> = ({ topics, viewState, onNavigate, o
             {/* Site Title */}
             <div className="flex flex-col justify-center pt-1">
               <h1 className="text-xl lg:text-2xl font-bold text-gray-900 leading-tight">
-                Livret Citoyen
+                Formation Civique
               </h1>
               <p className="text-sm text-gray-600 mt-1 font-chinese">
-                Formation Civique - 法国公民教育指南
+                Formation Civique - 法国公民考试指南
               </p>
             </div>
 
