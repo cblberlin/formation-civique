@@ -1,5 +1,5 @@
 {
-  "name": "formation civique",
+  "name": "formation-civique",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -14,6 +14,7 @@
     "lucide-react": "^0.344.0"
   },
   "devDependencies": {
+    "@types/node": "^20.11.24",
     "@types/react": "^18.2.64",
     "@types/react-dom": "^18.2.21",
     "@vitejs/plugin-react": "^4.2.1",
