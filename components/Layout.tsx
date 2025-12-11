@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Menu, X, ChevronDown, ChevronRight, Home, Github } from 'lucide-react';
 import { Topic, ViewState } from '../types';
+import { Analytics } from '@vercel/analytics/react';
 
 interface LayoutProps {
   topics: Topic[];
@@ -200,6 +201,9 @@ export const Layout: React.FC<LayoutProps> = ({ topics, viewState, onNavigate, o
           </div>
         </main>
       </div>
+
+      {/* Vercel Analytics: render once at app root */}
+      <Analytics />
     </div>
   );
 };
