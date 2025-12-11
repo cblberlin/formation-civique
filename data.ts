@@ -3311,6 +3311,16 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Il ont 2 fonctions :",
                 "cn": "它们具有两项功能："
+              },
+              {
+                "type": "list-item",
+                "fr": "Ils proposent des programmes politiques qu'ils souhaitent mettre en œuvre. Les partis politiques sont les intermédiaires entre les citoyens et le Gouvernement.",
+                "cn": "它们提出希望实施的政治计划。政党是公民与政府之间的中介。"
+              },
+              {
+                "type": "list-item",
+                "fr": "Ils sélectionnent les candidats pour les faire élire. Quand un membre d’un parti est élu à l’Assemblée ou au Sénat (pouvoir législatif) ou élu en tant que président de la République ou choisi en tant que Premier ministre (pouvoir exécutif), le parti politique dirige le pays (ils y participent).",
+                "cn": "它们选择候选人并使他们当选。当政党成员当选国民议会议员或参议员（立法权）或当选共和国总统或被任命为总理（行政权）时，政党引导国家（它们参与其中）。"
               }
             ],
             "children": []
