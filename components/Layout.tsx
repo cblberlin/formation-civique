@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, X, ChevronDown, ChevronRight, Home } from 'lucide-react';
+import { Menu, X, ChevronDown, ChevronRight, Home, Github } from 'lucide-react';
 import { Topic, ViewState } from '../types';
 
 interface LayoutProps {
@@ -127,9 +127,15 @@ export const Layout: React.FC<LayoutProps> = ({ topics, viewState, onNavigate, o
             </div>
 
             <div className="ml-auto hidden sm:flex items-center">
-               <span className="inline-block bg-green-100 text-green-800 text-xs px-2 py-1 rounded-sm font-bold uppercase tracking-wider">
-                 Beta
-               </span>
+              <a 
+                href="https://github.com/cblberlin/formation-civique" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 text-gray-700 hover:text-marianne-blue transition-colors"
+              >
+                <Github size={20} />
+                <span className="text-sm font-chinese">GitHub</span>
+              </a>
             </div>
           </div>
         </div>

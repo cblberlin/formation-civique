@@ -4,6 +4,8 @@
 
 # 法国公民考试内容 - 中法双语版
 
+[![GitHub](https://img.shields.io/badge/GitHub-查看源码-181717?style=flat-square&logo=github)](https://github.com/cblberlin/formation-civique)
+
 这是一个法国公民考试内容的中法双语翻译项目，旨在帮助需要考试的人更好的复习。
 
 ## 🤝 需要您的帮助！
@@ -56,3 +58,7 @@
 ---
 
 **注意**：本项目内容来源于法国官方公民教育资料，翻译仅供参考。如有疑问，请以原文（法语）为准。
+
+## 🔗 相关链接
+
+- **GitHub 仓库**：https://github.com/cblberlin/formation-civique
