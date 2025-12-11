@@ -111,9 +111,25 @@ export const TopicView: React.FC<TopicViewProps> = ({ topic }) => {
                   )}
 
                   {isImage && (
-                    <div className="bg-gray-100 p-8 flex flex-col items-center justify-center text-gray-400 rounded-lg">
-                      <BookOpen size={32} className="mb-2 opacity-50"/>
-                      <span className="text-sm font-medium italic text-center">{block.fr}</span>
+                    <div className="bg-gray-100 p-4 rounded-lg">
+                      <img 
+                        src={block.fr.startsWith('/') ? block.fr : `/${block.fr}`}
+                        alt={block.cn || block.fr}
+                        className="w-full max-w-md mx-auto h-auto rounded shadow-sm"
+                        onError={(e) => {
+                          // 如果图片加载失败，显示占位符
+                          const target = e.target as HTMLImageElement;
+                          target.style.display = 'none';
+                          const placeholder = target.nextElementSibling as HTMLElement;
+                          if (placeholder) {
+                            placeholder.style.display = 'flex';
+                          }
+                        }}
+                      />
+                      <div className="p-8 flex flex-col items-center justify-center text-gray-400 rounded-lg hidden">
+                        <BookOpen size={32} className="mb-2 opacity-50"/>
+                        <span className="text-sm font-medium italic text-center break-all">{block.fr}</span>
+                      </div>
                     </div>
                   )}
                 </div>

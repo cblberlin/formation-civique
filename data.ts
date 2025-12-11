@@ -130,6 +130,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "lors defêtes nationales, comme le14 juillet.",
                 "cn": "国庆节等国家庆典期间，例如7月14日。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/la-devise-française/devise-facade-prefecture-finistere.original.jpg",
+                "cn": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/la-devise-française/devise-facade-prefecture-finistere.original.jpg"
               }
             ],
             "children": []
@@ -203,6 +208,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Une personne qui a bien compris ce qu’est le principe de liberté peut alorsvivre, travailler, apprendre et s’exprimer en toute sécurité.",
                 "cn": "一个充分理解自由原则的人，可以安全地生活、工作、学习和表达自己。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/la-liberté/SLIDE_2-_delacroix-liberte-guidant-le-peuple.original.jpg",
+                "cn": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/la-liberté/SLIDE_2-_delacroix-liberte-guidant-le-peuple.original.jpg"
               }
             ],
             "children": []
@@ -282,6 +292,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le principe de l’égalité n’empêche pas de traiter différemment des personnes qui sont dans des situations différentes.Exemple : les tarifs d’un service peuvent être différents pour les personnes sans emploi, les étudiants, les personnes âgées…",
                 "cn": "平等原则并不妨碍对处于不同情况的人进行区别对待。例如：一项服务的价格可能对失业者、学生、老年人等有所不同。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/légalité-(1_3)/egalite-hommes.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/légalité-(1_3)/egalite-hommes.original.png"
               }
             ],
             "children": []
@@ -371,6 +386,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Les femmes sont devenues plus nombreuses dans la vie politique, mais il n’y a pas de parité dans les postes à haute responsabilité. Par exemple, il n’y a encore jamais eu de Présidente de la République française.",
                 "cn": "政治生活中的女性人数有所增加，但在高级职位上仍未实现性别平等。例如，法国至今从未有过女性总统。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/légalité-(2_3)/egalite-homme-femme.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/légalité-(2_3)/egalite-homme-femme.original.png"
               }
             ],
             "children": []
@@ -459,6 +479,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "la haine et la discrimination anti-LGBT+: attitude hostile à l'égard des personnes en raison de leur orientation sexuelle.Exemples : harcèlement, moqueries, refus de soin ou de logement.",
                 "cn": "反LGBT+仇恨与歧视：因性取向而对个人持有的敌对态度；例如：骚扰、嘲笑、拒绝提供医疗或住房。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/légalité-(3_3)/plan_national_lutte_discriminations.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/légalité-(3_3)/plan_national_lutte_discriminations.original.png"
               }
             ],
             "children": []
@@ -533,6 +558,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "L’engagement associatif,c’est un groupe de personnes qui agissent, dans des associations, pour aider des personnes en difficulté, pour préserver l’environnement…Exemples : aide alimentaire, soutien scolaire, aide aux réfugiés…",
                 "cn": "社团参与，是指一群人在协会中采取行动，帮助困难人群、保护环境等。例如：食品援助、学业支持、难民援助等。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/la-fraternité-(1_2)/personnes-agees.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/la-fraternité-(1_2)/personnes-agees.original.png"
               }
             ],
             "children": []
@@ -652,6 +682,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Pour financer les activités de l’association, il est possible de recevoir des dons ou des subventions, à condition de respecter certaines obligations : transparence sur les finances, respect des lois, déclaration des changements (nouveaux dirigeants, achat de local…).",
                 "cn": "为资助社团活动，可以接受捐赠或补贴，但须遵守某些义务：财务透明、遵守法律、申报变更（新任负责人、购置场所等）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/la-fraternité-(2_2)/personnes-handicapees.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-devise-de-la-république/la-fraternité-(2_2)/personnes-handicapees.original.png"
               }
             ],
             "children": []
@@ -773,6 +808,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Il est interdit de faire outrage au drapeau français, c'est-à-dire de détruire ou d'utiliser de manière dégradante le drapeau en public.",
                 "cn": "禁止侮辱法国国旗，即在公共场所损毁或以贬损方式使用国旗均属违法。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/le-drapeau-français/slide_8_drapeau_fr_Facade_de_la_sous-prefecture.original.jpg",
+                "cn": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/le-drapeau-français/slide_8_drapeau_fr_Facade_de_la_sous-prefecture.original.jpg"
               }
             ],
             "children": []
@@ -851,6 +891,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Manifestations exceptionnelles :rassemblement lors d’un évènement national marquant (par exemple les manifestations après les attentats de 2015).",
                 "cn": "特殊集会：全国性重大事件集会（例如2015年恐怖袭击后的集会）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/lhymne-français/Marseillaise-page1.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/lhymne-français/Marseillaise-page1.original.png"
               }
             ],
             "children": []
@@ -929,6 +974,21 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "On la voit aussi sur des timbres et les pièces de monnaie.",
                 "cn": "在邮票和硬币上也能见到她的形象。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/marianne/timbre-marianne.original.jpg",
+                "cn": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/marianne/timbre-marianne.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/marianne/buste-marianne-anonyme.original.jpg",
+                "cn": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/marianne/buste-marianne-anonyme.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/marianne/marianne.original.jpg",
+                "cn": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/marianne/marianne.original.jpg"
               }
             ],
             "children": []
@@ -992,6 +1052,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "C’est aussi unefête populairedans tout le pays, pour célébrer l’identité nationale, avec des feux d’artifice, des concerts, des bals…",
                 "cn": "这也是全国性的民众庆典，通过烟花、音乐会、舞会等活动庆祝国家认同。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/la-fête-nationale/fete-nationale.original.jpg",
+                "cn": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/la-fête-nationale/fete-nationale.original.jpg"
               }
             ],
             "children": []
@@ -1060,6 +1125,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Sport: maillots des équipes nationales.",
                 "cn": "体育：国家队队服。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/le-coq/mascotte-coq-des-jeux-olympiques.original.jpg",
+                "cn": "images/principes-et-valeurs-de-la-république/les-symboles-de-la-république/le-coq/mascotte-coq-des-jeux-olympiques.original.jpg"
               }
             ],
             "children": []
@@ -1156,6 +1226,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "La laïcité n'est pas une opinion :c'est un principe constitutionnel.L'article 1 de la Constitution de 1958 précise que \"La France est une République indivisible, laïque, démocratique et sociale\".",
                 "cn": "世俗主义不是一种观点：它是宪法原则。1958年宪法第1条规定：“法兰西是不可分割、世俗、民主和社会的共和国”。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-laïcité/la-définition-de-la-laïcité-(1_2)/laicite.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-laïcité/la-définition-de-la-laïcité-(1_2)/laicite.original.png"
               }
             ],
             "children": []
@@ -1229,6 +1304,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "la communauté bouddhiste en France est la plus importante d’Europe.",
                 "cn": "法国的佛教社区是欧洲最大的。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-laïcité/la-définition-de-la-laïcité-(2_2)/laicite.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-laïcité/la-définition-de-la-laïcité-(2_2)/laicite.original.png"
               }
             ],
             "children": []
@@ -1524,6 +1604,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.",
                 "cn": "财产是不可侵犯的神圣权利，非经合法确认的公共需要所必需，且在公正事先补偿的条件下，任何人不得被剥夺财产。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-laïcité/histoire-de-la-laïcité/Decladroithomme_le_barbier_jean-jacques-francoi.original.jpg",
+                "cn": "images/principes-et-valeurs-de-la-république/la-laïcité/histoire-de-la-laïcité/Decladroithomme_le_barbier_jean-jacques-francoi.original.jpg"
               }
             ],
             "children": []
@@ -1618,6 +1703,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Cette loi ne s’applique pas dans les lieux de culte ouverts au public (églises, mosquées, synagogues…).",
                 "cn": "该法律不适用于向公众开放的礼拜场所（教堂、清真寺、犹太教堂等）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-laïcité/la-laïcité-dans-lespace-public/laicite.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-laïcité/la-laïcité-dans-lespace-public/laicite.original.png"
               }
             ],
             "children": []
@@ -1687,6 +1777,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Il existe un document qui rappelleles droits et les devoirspour respecter la laïcité dans les services publics. Il s’adresse aux usagers et aux personnes qui travaillent dans ces services. C’est la Charte de la laïcité dans les services publics.",
                 "cn": "存在一份文件，重申了在公共服务中尊重世俗原则的权利和义务。该文件面向用户和在这些服务机构工作的人员。即《公共服务世俗宪章》。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-laïcité/la-laïcité-dans-les-services-publics/charte-laicite-services-publics.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-laïcité/la-laïcité-dans-les-services-publics/charte-laicite-services-publics.original.png"
               }
             ],
             "children": []
@@ -1765,6 +1860,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le prosélytisme est également interdit dans lesentreprises privées.",
                 "cn": "私营企业中也禁止宗教劝诱。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-laïcité/le-prosélytisme/laicite.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-laïcité/le-prosélytisme/laicite.original.png"
               }
             ],
             "children": []
@@ -1858,6 +1958,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "lanégation de la Shoah(génocide des Juifs pendant la Seconde Guerre mondiale).",
                 "cn": "否认犹太人大屠杀（第二次世界大战期间对犹太人的种族灭绝）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-laïcité/le-blasphème/laicite.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-laïcité/le-blasphème/laicite.original.png"
               }
             ],
             "children": []
@@ -1947,6 +2052,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Un salarié doit obtenir l'autorisation de son employeur pour s'absenter pour une fête religieuse. Le refus de l'employeur est possible, à condition qu'il ne soit pas discriminatoire.",
                 "cn": "雇员因宗教节日请假必须获得雇主的批准。雇主可以拒绝，前提是该拒绝不构成歧视。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-laïcité/la-laïcité-au-travail/droit-du-travail.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-laïcité/la-laïcité-au-travail/droit-du-travail.original.png"
               }
             ],
             "children": []
@@ -2062,6 +2172,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "La république est laïque",
                 "cn": "共和国是世俗的"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-laïcité/la-laïcité-à-lécole-(1_2)/charte-de-la-laicite-ecole.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-laïcité/la-laïcité-à-lécole-(1_2)/charte-de-la-laicite-ecole.original.png"
               }
             ],
             "children": []
@@ -2168,6 +2283,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "La république est laïque",
                 "cn": "共和国实行世俗化原则"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-laïcité/la-laïcité-à-lécole-(2_2)/charte-de-la-laicite-ecole.original.png",
+                "cn": "images/principes-et-valeurs-de-la-république/la-laïcité/la-laïcité-à-lécole-(2_2)/charte-de-la-laicite-ecole.original.png"
               }
             ],
             "children": []
@@ -2244,6 +2364,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Ce ne sont pas des langues officielles de la France, maiselles font partie du patrimoine français.",
                 "cn": "它们并非法国的官方语言，但属于法国文化遗产的一部分。"
+              },
+              {
+                "type": "image",
+                "fr": "images/principes-et-valeurs-de-la-république/la-langue-de-la-république/la-langue-française/langue_francaise.original.jpg",
+                "cn": "images/principes-et-valeurs-de-la-république/la-langue-de-la-république/la-langue-française/langue_francaise.original.jpg"
               }
             ],
             "children": []
@@ -2490,6 +2615,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le principe de séparation des pouvoirs est inscrit dans la Constitution, qui cite la Déclaration des droits de l’homme et du citoyen de 1789.",
                 "cn": "权力分立原则载于宪法，其中引用了1789年《人权与公民权宣言》。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/état-de-droit-et-séparation-des-pouvoirs/état-de-droit-et-séparation-des-pouvoirs-_-présentation-de-l’état-de-droit-et-principe-de-la-séparat/egalite.original.png",
+                "cn": "images/système-institutionnel-et-politique/état-de-droit-et-séparation-des-pouvoirs/état-de-droit-et-séparation-des-pouvoirs-_-présentation-de-l’état-de-droit-et-principe-de-la-séparat/egalite.original.png"
               }
             ],
             "children": []
@@ -2644,6 +2774,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Pouvoir judiciaireContrôle et sanction en cas de non-respect de la loi",
                 "cn": "司法权监督并制裁违法行为"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/état-de-droit-et-séparation-des-pouvoirs/état-de-droit-et-séparation-des-pouvoirs-_-présentation-des-3-pouvoirs-(1_2)/presentation-des-3-pouvoirs.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/état-de-droit-et-séparation-des-pouvoirs/état-de-droit-et-séparation-des-pouvoirs-_-présentation-des-3-pouvoirs-(1_2)/presentation-des-3-pouvoirs.original.jpg"
               }
             ],
             "children": []
@@ -2716,6 +2851,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "une juridiction de cassation : la Cour de cassation (justice judiciaire) ou le Conseil d’État (justice administrative). C’est le dernier niveau de juridiction en France.",
                 "cn": "终审法院：最高法院（司法法院体系）或最高行政法院（行政法院体系）。这是法国的最高司法层级。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/état-de-droit-et-séparation-des-pouvoirs/état-de-droit-et-séparation-des-pouvoirs-_-présentation-des-3-pouvoirs-(2_2)/Pictogrammes_DSFR__Institutions__Justice_uV6Dzx.original.svg",
+                "cn": "images/système-institutionnel-et-politique/état-de-droit-et-séparation-des-pouvoirs/état-de-droit-et-séparation-des-pouvoirs-_-présentation-des-3-pouvoirs-(2_2)/Pictogrammes_DSFR__Institutions__Justice_uV6Dzx.original.svg"
               }
             ],
             "children": []
@@ -2838,6 +2978,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "En résumé, la démocratie se concentre sur la participation du peuple au processus de prise de décision, tandis que la République se concentre sur la forme de gouvernement et la manière dont le pouvoir est exercé. Une démocratie peut être une République, mais une République n'est pas nécessairement une démocratie.",
                 "cn": "总之，民主侧重于人民参与决策过程，而共和国侧重于政府形式和权力行使方式。民主可以是共和国，但共和国不一定是民主国家。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/la-démocratie-et-la-république-(1_2)/Institutiondemocratique_UZnGXdM.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/la-démocratie-et-la-république-(1_2)/Institutiondemocratique_UZnGXdM.original.jpg"
               }
             ],
             "children": []
@@ -2895,6 +3040,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "lesconseillers régionaux(élus pour 6 ansau élections régionales au suffrage direct) : ils forment l’assemblée régionale qui prend des décisions concernant la région.",
                 "cn": "大区议员（在大区选举中通过直接选举产生，任期6年）：他们组成大区议会，负责大区内的决策。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/la-démocratie-et-la-république-(2_2)/Institutiondemocratique_UZnGXdM.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/la-démocratie-et-la-république-(2_2)/Institutiondemocratique_UZnGXdM.original.jpg"
               }
             ],
             "children": []
@@ -3009,6 +3159,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Un citoyen puni par la loi (condamné à une peine d’emprisonnement) peut être privé de ses droits civiques et politiques.",
                 "cn": "被法律惩罚（判处监禁）的公民可能被剥夺公民权利和政治权利。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/les-conditions-pour-voter-en-france-(1_2)/droit-de-vote.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/les-conditions-pour-voter-en-france-(1_2)/droit-de-vote.original.jpg"
               }
             ],
             "children": []
@@ -3082,6 +3237,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Par contre, lesélections sénatoriales, qui permettent d'élire les sénateurs, sont ausuffrage universel indirect(tous les 3 ans renouvellement par moitié). Seuls les grands électeurs (maires, conseillers municipaux, députés) votent.",
                 "cn": "然而，选举参议员的参议院选举采用间接普选制（每三年更换一半席位）。只有大选举人（市长、市议员、国民议会议员）参与投票。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/les-conditions-pour-voter-en-france-(2_2)/droit-de-vote.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/les-conditions-pour-voter-en-france-(2_2)/droit-de-vote.original.jpg"
               }
             ],
             "children": []
@@ -3321,6 +3481,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Ministère de l'Intérieur.",
                 "cn": "内政部。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/comment-voter-une-loi-(1_2)/le-parcours-d-une-loi.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/comment-voter-une-loi-(1_2)/le-parcours-d-une-loi.original.jpg"
               }
             ],
             "children": []
@@ -3501,6 +3666,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Ministère de l'Intérieur.",
                 "cn": "内政部。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/comment-voter-une-loi-(2_2)/le-parcours-d-une-loi.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/démocratie-et-droit-de-vote/comment-voter-une-loi-(2_2)/le-parcours-d-une-loi.original.jpg"
               }
             ],
             "children": []
@@ -3643,6 +3813,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "La réforme constitutionnelle de 2003 consacre \"l'organisation décentralisée de la République\".",
                 "cn": "2003年的宪法改革确立了“共和国的权力下放组织”。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/organisation-de-la-république-française/le-découpage-administratif-de-la-france-(1_3)/INFS_2404_PWDN_05-decentralisation.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/organisation-de-la-république-française/le-découpage-administratif-de-la-france-(1_3)/INFS_2404_PWDN_05-decentralisation.original.jpg"
               }
             ],
             "children": []
@@ -4034,6 +4209,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Source : Europa.euCartographie : Dario Ingiusto et Floriane PicardCopyright : DILA 2021, vie-publique.fr",
                 "cn": "来源：Europa.eu制图：Dario Ingiusto 与 Floriane Picard版权：DILA 2021，vie-publique.fr"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/institutions-européennes/les-étapes-clés-de-la-construction-européenne/EU01_EUROPE_construction_europeenne_2021.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/institutions-européennes/les-étapes-clés-de-la-construction-européenne/EU01_EUROPE_construction_europeenne_2021.original.jpg"
               }
             ],
             "children": []
@@ -4117,6 +4297,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "On peut l’entendre lors des évènements officiels, notamment la Journée de l’Europe (le 9 mai).",
                 "cn": "在官方活动中可以听到这首盟歌，尤其是在欧洲日（5月9日）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/institutions-européennes/les-symboles-européens-(1_2)/drapeau-europeen.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/institutions-européennes/les-symboles-européens-(1_2)/drapeau-europeen.original.jpg"
               }
             ],
             "children": []
@@ -4194,6 +4379,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Renforcer le sentiment d’appartenance à un espace commun.",
                 "cn": "增强对共同空间的归属感。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/institutions-européennes/les-symboles-européens-(2_2)/fete-de-l-Europe-2024.original.png",
+                "cn": "images/système-institutionnel-et-politique/institutions-européennes/les-symboles-européens-(2_2)/fete-de-l-Europe-2024.original.png"
               }
             ],
             "children": []
@@ -4292,6 +4482,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Le Conseil européen, apparu dans les années 1960 sous la forme de réunions irrégulières, devient une institution en2009.",
                 "cn": "欧洲理事会于20世纪60年代以不定期会议形式出现，于2009年正式成为机构。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/institutions-européennes/le-fonctionnement-européen-(1_2)/fonctionnement-europeen-1.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/institutions-européennes/le-fonctionnement-européen-(1_2)/fonctionnement-europeen-1.original.jpg"
               }
             ],
             "children": []
@@ -4390,6 +4585,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Elle vérifie également que les Etats appliquent correctement le droit européen.",
                 "cn": "它还监督各国是否正确适用欧盟法律。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/institutions-européennes/le-fonctionnement-européen-(2_2)/fonctionnement-europeen-2.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/institutions-européennes/le-fonctionnement-européen-(2_2)/fonctionnement-europeen-2.original.jpg"
               }
             ],
             "children": []
@@ -4488,6 +4688,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Ne pas être privé de ses droits civils et politiques.",
                 "cn": "未被剥夺公民权利和政治权利。"
+              },
+              {
+                "type": "image",
+                "fr": "images/système-institutionnel-et-politique/institutions-européennes/les-élections-européennes/electionUE.original.jpg",
+                "cn": "images/système-institutionnel-et-politique/institutions-européennes/les-élections-européennes/electionUE.original.jpg"
               }
             ],
             "children": []
@@ -4627,6 +4832,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "la Charte de l’environnement de 2005.",
                 "cn": "2005年《环境宪章》。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/introduction-aux-droits-fondamentaux/15-4-justice.original.png",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/introduction-aux-droits-fondamentaux/15-4-justice.original.png"
               }
             ],
             "children": []
@@ -4769,6 +4979,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "et la protection de la liberté individuelle.",
                 "cn": "以及个人自由的保护。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/les-droits-liés-à-la-personne-humaine/15-4-justice.original.png",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/les-droits-liés-à-la-personne-humaine/15-4-justice.original.png"
               }
             ],
             "children": []
@@ -4871,6 +5086,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Ces droits sont apparus plus récemment et sont progressivement intégrés dans les textes de loi en France.Ils ne peuvent pas encore tous être utilisés devant un tribunal.",
                 "cn": "这些权利出现较晚，正逐步纳入法国法律文本。它们尚不能全部在法庭上使用。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/les-droits-économiques-et-sociaux-et-les-droits-dits-de-troisième-génération/15-4-justice.original.png",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/les-droits-économiques-et-sociaux-et-les-droits-dits-de-troisième-génération/15-4-justice.original.png"
               }
             ],
             "children": []
@@ -4964,6 +5184,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "L’article 3 de la Charte des droits fondamentaux de l’Union européenne de 2000 dit que le consentement libre et éclairé doit être respecté, que le corps humain ne peut être une source de profit (le trafic d’organe est interdit), que les pratiques eugéniques (sélection du patrimoine génétique) et de clonage sont interdites.",
                 "cn": "2000年《欧盟基本权利宪章》第3条规定：必须尊重自由且知情的同意；人体不得作为牟利来源（禁止器官交易）；禁止优生实践（基因筛选）和克隆行为。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/la-dignité-humaine/dignite-humaine.original.png",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/la-dignité-humaine/dignite-humaine.original.png"
               }
             ],
             "children": []
@@ -5088,6 +5313,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "L’avortement et les actes médicaux adjacents (consultations, échographies, prises de sang...) des femmes assurées sociales sont pris en charge à 100 % par l'Assurance Maladie sans avance de frais.",
                 "cn": "社保参保女性的堕胎及相关医疗程序（咨询、超声检查、验血等）由医疗保险100%承担，无需预付费用。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/un-droit-fondamental-_-le-droit-de-disposer-de-son-corps/50-ans-loi-autorisang-IVG.original.jpg",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/un-droit-fondamental-_-le-droit-de-disposer-de-son-corps/50-ans-loi-autorisang-IVG.original.jpg"
               }
             ],
             "children": []
@@ -5181,6 +5411,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "à la PMA (Procréation Médicalement Assistée), ouverte à toutes les femmes (en couple ou seules) depuis le 2 août 2021 grâce à la loi bioéthique.",
                 "cn": "自2021年8月2日《生物伦理法》生效以来，所有女性（无论是否处于伴侣关系中）均可获得医学辅助生殖技术。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/les-libertés-au-sein-du-couple/picto-couple.original.jpg",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/les-libertés-au-sein-du-couple/picto-couple.original.jpg"
               }
             ],
             "children": []
@@ -5274,6 +5509,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Cette mesure implique la perte des droits et libertés liés à la citoyenneté dont le droit de vote, le passeport français ou encore la protection diplomatique de l’État.",
                 "cn": "这一措施意味着丧失与公民权相关的权利和自由，包括选举权、法国护照以及国家的外交保护。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/la-citoyenneté/SLIDE_8.original.png",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/la-citoyenneté/SLIDE_8.original.png"
               }
             ],
             "children": []
@@ -5547,6 +5787,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.",
                 "cn": "财产是神圣不可侵犯的权利，除非当合法认定的公共需要所显然必需时，且在公平而预先赔偿的条件下，任何人的财产不得受到剥夺。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/présentation-des-principaux-textes-(1_3)-_-la-déclaration-des-droits-de-lhomme-et-du-citoyen/Decladroithomme_le_barbier_jean-jacques-francoi.original.jpg",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/présentation-des-principaux-textes-(1_3)-_-la-déclaration-des-droits-de-lhomme-et-du-citoyen/Decladroithomme_le_barbier_jean-jacques-francoi.original.jpg"
               }
             ],
             "children": []
@@ -5681,6 +5926,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "En vertu de ces principes et de celui de la libre détermination des peuples, la République offre aux territoires d'Outre-Mer qui manifestent la volonté d'y adhérer des institutions nouvelles fondées sur l'idéal commun de liberté, d'égalité et de fraternité et conçues en vue de leur évolution démocratiques.",
                 "cn": "基于这些原则及民族自决原则，共和国为表明加入意愿的海外领地提供基于自由、平等、博爱共同理想的新制度，并旨在促进其民主发展。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/présentation-des-principaux-textes-(2_3)-_-la-constitution-de-la-vème-république/constitution.original.png",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/présentation-des-principaux-textes-(2_3)-_-la-constitution-de-la-vème-république/constitution.original.png"
               }
             ],
             "children": []
@@ -5930,6 +6180,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "La présente Charte inspire l'action européenne et internationale de la France.",
                 "cn": "本宪章为法国在欧洲及国际层面的行动提供指引。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/présentation-des-principaux-textes-(3_3)-_-la-charte-de-lenvironnement/charte-de-l-environnement.original.jpg",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/présentation-des-principaux-textes-(3_3)-_-la-charte-de-lenvironnement/charte-de-l-environnement.original.jpg"
               }
             ],
             "children": []
@@ -6028,6 +6283,26 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Pictogrammes(Ouvre une nouvelle fenêtre)Banque de pictogrammes FALC",
                 "cn": "象形图（在新窗口中打开）FALC象形图库"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/les-acteurs-institutionnels/defenseur-des-droits.original.jpg",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/les-acteurs-institutionnels/defenseur-des-droits.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/les-acteurs-institutionnels/maison-de-justice-dreux.original.jpg",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/les-acteurs-institutionnels/maison-de-justice-dreux.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/les-acteurs-institutionnels/mediateur.original.png",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/les-acteurs-institutionnels/mediateur.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/droits-fondamentaux/les-acteurs-institutionnels/avocat.original.png",
+                "cn": "images/droits-et-devoirs/droits-fondamentaux/les-acteurs-institutionnels/avocat.original.png"
               }
             ],
             "children": []
@@ -6124,6 +6399,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "De même, il est interdit de circuler dans l'espace public avec une tenue qui vise à cacher son visage.",
                 "cn": "同样，在公共场所穿着旨在遮盖面部的服装是被禁止的。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/la-limite-des-libertés-individuelles/droits_et_devoirs-alerte-danger-bleu-rouge.original.png",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/la-limite-des-libertés-individuelles/droits_et_devoirs-alerte-danger-bleu-rouge.original.png"
               }
             ],
             "children": []
@@ -6211,6 +6491,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "La cour d’assises et la cour criminelle jugent les accusés de crime.",
                 "cn": "重罪由重罪法庭及刑事法庭审理。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/se-conformer-aux-lois-_-les-infractions-(1_2)/15-5-loi-bulle-roug.original.png",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/se-conformer-aux-lois-_-les-infractions-(1_2)/15-5-loi-bulle-roug.original.png"
               }
             ],
             "children": []
@@ -6313,6 +6598,16 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Logo de la gendarmerie(Ouvre une nouvelle fenêtre)Gendarmerie Nationale Française / Vector graphic : Futurhit12",
                 "cn": "宪兵徽标（在新窗口中打开）法国国家宪兵队 / 矢量图形：Futurhit12"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/se-conformer-aux-lois---les-acteurs-(2_2)/police-nationale.original.jpg",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/se-conformer-aux-lois---les-acteurs-(2_2)/police-nationale.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/se-conformer-aux-lois---les-acteurs-(2_2)/gendarmerie-nationale.original.png",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/se-conformer-aux-lois---les-acteurs-(2_2)/gendarmerie-nationale.original.png"
               }
             ],
             "children": []
@@ -6400,6 +6695,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Au quotidien, chacun a l’obligation d’agir pour protéger l’environnement que ce soit au sujet de : l’alimentation, la consommation responsable, les économies d’eau et d’énergie, le choix des transports, la limitation des produits chimiques, le jardinage écologique, la réutilisation et le recyclage.",
                 "cn": "在日常生活中，每个人都有义务采取行动保护环境，涉及方面包括：饮食、负责任消费、节约用水和能源、交通方式选择、限制化学品使用、生态园艺、再利用和回收。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/les-obligations-en-tant-que-résident-français/SLIDE_6_impot.original.png",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/les-obligations-en-tant-que-résident-français/SLIDE_6_impot.original.png"
               }
             ],
             "children": []
@@ -6462,6 +6762,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Tout citoyen français âgé de plus de 23 ans, qui a tous ses droits civiques et qui est inscrit sur les listes électorales, peut être tiré au sort pour être juré lors d’un procès d’une cour d'assises. C’est un rôle clé qui garantit la participation directe des citoyens à l’administration de la justice.",
                 "cn": "任何年满23岁、享有全部公民权利并登记在选民名单上的法国公民，都可能被抽选为巡回法庭审判的陪审员。这是保障公民直接参与司法管理的关键角色。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/les-obligations-en-tant-que-citoyen-français/15-5-loi-bulle-roug.original.png",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/les-obligations-en-tant-que-citoyen-français/15-5-loi-bulle-roug.original.png"
               }
             ],
             "children": []
@@ -6569,6 +6874,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Contrôle total des ressources financières et de leur utilisation.",
                 "cn": "完全控制财务资源及其使用。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/linterdiction-de-toutes-les-formes-de-violences/11-14-violences.original.png",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/linterdiction-de-toutes-les-formes-de-violences/11-14-violences.original.png"
               }
             ],
             "children": []
@@ -6672,6 +6982,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "www.allo119.gouv.fr",
                 "cn": "www.allo119.gouv.fr"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/linterdiction-des-violences-faites-aux-enfants/enfance_en_danger.original.png",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/linterdiction-des-violences-faites-aux-enfants/enfance_en_danger.original.png"
               }
             ],
             "children": []
@@ -6811,6 +7126,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "excision parlons-en !",
                 "cn": "割礼，让我们谈谈！"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/linterdiction-des-mutilations-sexuelles-féminines/vignette_mutilation.original.jpg",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/linterdiction-des-mutilations-sexuelles-féminines/vignette_mutilation.original.jpg"
               }
             ],
             "children": []
@@ -6889,6 +7209,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le consentement doit être réciproque et mutuel: tout rapprochement physique doit être validé par les 2 partenaires. Ce consentement peut être formulé par des propos et/ou des actions. Le silence n’est pas un consentement. Le consentement est temporaire. Il peut être donné puis retiré. Le consentement concerne un acte sexuel et non tous les actes sexuels. Si une personne n’est pas en état de donner son consentement (alcool, sommeil, sous médicaments…), c’est donc qu’elle refuse.",
                 "cn": "同意必须是相互和双方的：任何身体接触都必须得到双方的确认。同意可以通过言语和/或行动表达。沉默不等于同意。同意是暂时的，可以给予也可以撤回。同意针对的是某一具体性行为，而非所有性行为。如果一个人无法表达同意（如醉酒、睡眠、服药等），则视为拒绝。"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/linterdition-des-violences-sexuelles/11-14-violences.original.png",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/linterdition-des-violences-sexuelles/11-14-violences.original.png"
               }
             ],
             "children": []
@@ -6982,6 +7307,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "(En bas, logo du Gouvernement français avec Marianne sur fond bleu, blanc, rouge)",
                 "cn": "（底部为法国政府徽标，蓝白红背景上的玛丽安娜像）"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/la-traite-des-êtres-humains-et-la-prostitution/prostitution.original.jpg",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/la-traite-des-êtres-humains-et-la-prostitution/prostitution.original.jpg"
               }
             ],
             "children": []
@@ -7115,6 +7445,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "(En bas, logo du Gouvernement français avec Marianne sur fond bleu, blanc, rouge)",
                 "cn": "（底部为法国政府徽标，蓝白红背景上的玛丽安娜像）"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/la-protection-des-victimes-de-violences/Numeros_durgence_nationaux.original.png",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/la-protection-des-victimes-de-violences/Numeros_durgence_nationaux.original.png"
               }
             ],
             "children": []
@@ -7198,6 +7533,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "(En bas, logo du Gouvernement français avec Marianne sur fond bleu, blanc, rouge)",
                 "cn": "（底部为法国政府徽标，蓝白红背景上的玛丽安娜头像）"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/le-rôle-des-témoins-en-cas-de-violences/Numeros_durgence_nationaux.original.png",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/le-rôle-des-témoins-en-cas-de-violences/Numeros_durgence_nationaux.original.png"
               }
             ],
             "children": []
@@ -7306,6 +7646,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "BercyLab mobilisé pour un monde plus vert",
                 "cn": "贝西实验室致力于打造更绿色的世界"
+              },
+              {
+                "type": "image",
+                "fr": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/adopter-une-attitude-respectueuse-vis-à-vis-de-l’environnement/eco-geste-bien-jeter-ses-dechets-1.original.jpg",
+                "cn": "images/droits-et-devoirs/obligations-et-devoirs-des-personnes-résidant-en-france/adopter-une-attitude-respectueuse-vis-à-vis-de-l’environnement/eco-geste-bien-jeter-ses-dechets-1.original.jpg"
               }
             ],
             "children": []
@@ -7455,6 +7800,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "La République telle que nous la connaissons aujourd’hui s’est construite progressivement. Elle a hérité des acquis, des luttes et des transformations des différents régimes qui l’ont précédée.",
                 "cn": "我们今天所知的共和国是逐步建立起来的。它继承了先前各制度的成果、斗争与变革。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/les-régimes-politiques/frise-regimes-politiques-V2.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/les-régimes-politiques/frise-regimes-politiques-V2.original.png"
               }
             ],
             "children": []
@@ -7537,6 +7887,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "L’organisation du territoire en fiefs détenus par des seigneurs sous l’autorité du roi constitue une première forme d’organisation hiérarchique. Elle est à l’origine du système administratif français actuel.",
                 "cn": "以国王为最高权威、领主分封采邑的领土组织形式，构成了层级制度的雏形，是现行法国行政体系的起源。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/des-mérovingiens-à-l’ancien-régime-(vème-xvième-siècle)/clovis.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/des-mérovingiens-à-l’ancien-régime-(vème-xvième-siècle)/clovis.original.jpg"
               }
             ],
             "children": []
@@ -7625,6 +7980,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le seul véritable héritage laissé par l’Ancien Régime est lacentralisation du pouvoir. Cette organisation de l’État autour d’une administration unifiée et d’une forte autorité centrale a été conservée.",
                 "cn": "旧制度留下的唯一真正遗产是权力中央集权。这种以统一行政机构和强大中央权威为核心的国家组织形式得以保留。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/lancien-régime-(jusquen-1789)/SLIDE_2_louis_xiv_of_france.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/lancien-régime-(jusquen-1789)/SLIDE_2_louis_xiv_of_france.original.png"
               }
             ],
             "children": []
@@ -7708,6 +8068,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Source : GrandPalaisRmn (Château de Versailles) / image GrandPalaisRmn.",
                 "cn": "来源：GrandPalaisRmn（凡尔赛宫）/ 图片 GrandPalaisRmn。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-fin-de-la-monarchie-absolue-et-le-début-de-la-ière-république-(1789-1792)/SLIDE_3_Gilbert_du_Motier_Marquis_de_Lafayette.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-fin-de-la-monarchie-absolue-et-le-début-de-la-ière-république-(1789-1792)/SLIDE_3_Gilbert_du_Motier_Marquis_de_Lafayette.original.jpg"
               }
             ],
             "children": []
@@ -7786,6 +8151,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "On doit aussi à la Ière République la réorganisation de l’administration du territoire, avec lacréation des départementsqui améliorent la gestion et le contrôle des régions.",
                 "cn": "第一共和国还重组了领土行政体系，通过设立行省改善了地区管理与控制。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-ière-république-(1792-1804)/SLIDE_4Maximilien_Robespierre.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-ière-république-(1792-1804)/SLIDE_4Maximilien_Robespierre.original.jpg"
               }
             ],
             "children": []
@@ -7854,6 +8224,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le Consulat conserve le découpage du territoire en départements, mais met en place une administration centralisée. En 1800, une nouvelle fonction administrative est ainsi créée : lepréfet, qui dirige chaque département et représente le gouvernement. Le système actuel est l’héritier de cette organisation centralisée.",
                 "cn": "执政府保留了将领土划分为省份的做法，但建立了中央集权的行政体系。1800年，由此创建了一项新的行政职能：省长，负责领导每个省份并代表政府。现行体系继承了这一中央集权的组织架构。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/le-consulat-(1799-1804)/First_Consul_Napoleon_Bonaparte_by_Marie-Guille.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/le-consulat-(1799-1804)/First_Consul_Napoleon_Bonaparte_by_Marie-Guille.original.jpg"
               }
             ],
             "children": []
@@ -7927,6 +8302,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Il crée aussi desinstitutions, comme le lycée et le baccalauréat, qui structurent toujours le système éducatif français.",
                 "cn": "它还创立了如中学与会考等制度，这些至今仍构成法国教育体系的基石。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/le-1er-empire-(1804-1815)/SLIDE_5_Napoleon_Bonaparte.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/le-1er-empire-(1804-1815)/SLIDE_5_Napoleon_Bonaparte.original.jpg"
               }
             ],
             "children": []
@@ -8020,6 +8400,16 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "À cette époque aussi, des partis politiques, des journaux engagés et des oppositions structurées apparaissent. Ils amorcent lefonctionnement démocratique futur de la République.",
                 "cn": "在那个时期，政党、有立场的报纸和有组织的反对派也开始出现。它们开启了共和国未来民主运作的序幕。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-restauration-et-la-monarchie-de-juillet-(1815-1848)/SLIDE_6_Gerard_-_Louis_XVIII_of_France_in_Coron.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-restauration-et-la-monarchie-de-juillet-(1815-1848)/SLIDE_6_Gerard_-_Louis_XVIII_of_France_in_Coron.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-restauration-et-la-monarchie-de-juillet-(1815-1848)/SLIDE_7-mv_8563_c_chateau_de_versailles_dist._r.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-restauration-et-la-monarchie-de-juillet-(1815-1848)/SLIDE_7-mv_8563_c_chateau_de_versailles_dist._r.original.png"
               }
             ],
             "children": []
@@ -8098,6 +8488,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "C’est aussi à cette époque que l’esclavage est définitivement abolidans les colonies françaises, grâce au décret du 27 avril 1848 rédigé parVictor Schœlcher, sous-secrétaire d’État chargé des colonies.",
                 "cn": "同样在这一时期，得益于殖民地事务副国务秘书维克多·舍尔歇起草的1848年4月27日法令，法国殖民地的奴隶制被彻底废除。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-iième-république-(1848-1851)/SLIDE_8_Bonaparte.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-iième-république-(1848-1851)/SLIDE_8_Bonaparte.original.png"
               }
             ],
             "children": []
@@ -8171,6 +8566,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Pendant sa phase libérale, le Second Empire renforce progressivement les droits du Parlement. En 1870, une réforme constitutionnelle instaure unrégime de type parlementaireavec deux chambres législatives mais l’empereur peut toujours nommer et révoquer les ministres.",
                 "cn": "在自由化阶段，第二帝国逐步加强了议会权利。1870年，一项宪法改革建立了议会制政体，设有两院立法机构，但皇帝仍可任免大臣。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/le-2nd-empire-(1852-1870)/SLIDE_9_Napoleon_III.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/le-2nd-empire-(1852-1870)/SLIDE_9_Napoleon_III.original.jpg"
               }
             ],
             "children": []
@@ -8264,6 +8664,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Elle instaure laloi de 1905 sur la séparation des Églises et de l’État, qui fonde la laïcité.",
                 "cn": "它确立了1905年关于政教分离的法律，奠定了世俗主义的基础。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-iiième-république-(1870-1940)/Poincarre_portrait_de_Raymond_Poincare_-_btv1b5.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-iiième-république-(1870-1940)/Poincarre_portrait_de_Raymond_Poincare_-_btv1b5.original.jpg"
               }
             ],
             "children": []
@@ -8337,6 +8742,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le régime de Vichy n’a pas laissé d’apports positifs au système actuel. Au contraire, il marque unerupture avec les valeurs démocratiques et républicaines, ce qui conduit, après la Libération, à renforcer la défense des droits et libertés fondamentales en France.",
                 "cn": "维希政权未对现行体系留下积极贡献。相反，它标志着与民主共和价值观的决裂，这促使法国在解放后进一步加强了对基本权利与自由的捍卫。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/le-régime-de-vichy-(1940-1944)/SLIDE_11_Philippe_Petain_-_photo_Henri_Manuel.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/le-régime-de-vichy-(1940-1944)/SLIDE_11_Philippe_Petain_-_photo_Henri_Manuel.original.jpg"
               }
             ],
             "children": []
@@ -8415,6 +8825,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le Gouvernement provisoire restaure la légitimité républicaine après la Seconde Guerre mondiale et prépare les institutions de la IVème République. Grâce à ses réformes, il assure lacontinuité de l’État françaiset pose les bases d’unsystème politique moderne et stable, qui servira de référence pour les gouvernements suivants.",
                 "cn": "临时政府在二战后恢复了共和法统的合法性，并为第四共和国制度奠定基础。通过其改革措施，它确保了法国国家体制的延续性，并构建了现代稳定的政治体系基础，为后续政府提供了重要参照。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/le-gouvernement-provisoire-de-la-république-française-(1944-1946)/Charles_de_Gaulle_-_Gouvernement_provisoire_de_.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/le-gouvernement-provisoire-de-la-république-française-(1944-1946)/Charles_de_Gaulle_-_Gouvernement_provisoire_de_.original.jpg"
               }
             ],
             "children": []
@@ -8483,6 +8898,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "L’État devient unacteur central de la reconstruction et du développement économique. Il intervient directement dans des secteurs clés (planification, nationalisations, entreprises publiques).",
                 "cn": "国家成为重建和经济发展的核心参与者。它直接干预关键领域（规划、国有化、国有企业）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-ivème-république-(1946-1958)/SLIDE_12_Vincent_Auriol.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-ivème-république-(1946-1958)/SLIDE_12_Vincent_Auriol.original.jpg"
               }
             ],
             "children": []
@@ -8556,6 +8976,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "La création du Conseil constitutionnel assure un contrôle juridique des lois et garantit lerespect de la Constitution.",
                 "cn": "宪法委员会的设立确保了对法律进行司法审查，并保障了对宪法的尊重。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-vème-république/SLIDE_13_et_15_Portrait-officiel-du-General-Cha.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-régimes-politiques-depuis-1789/la-vème-république/SLIDE_13_et_15_Portrait-officiel-du-General-Cha.original.jpg"
               }
             ],
             "children": []
@@ -8853,6 +9278,51 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Emmanuel MacronPhoto Soazig de la Moissonnière © La Documentation française",
                 "cn": "埃马纽埃尔·马克龙 照片 索阿齐格·德拉穆瓦索尼埃 © 法国文献局"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/Charles_de_Gaulle_-_Gouvernement_provisoire_de_.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/Charles_de_Gaulle_-_Gouvernement_provisoire_de_.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_15_Portrait-officiel-de-M.-Georges-Pompid.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_15_Portrait-officiel-de-M.-Georges-Pompid.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_15_Photo_VGE.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_15_Photo_VGE.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_16_Portrait-officiel-de-M.-Francois-Mitte.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_16_Portrait-officiel-de-M.-Francois-Mitte.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_16_-_Chirac.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_16_-_Chirac.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_16_Portrait-de-M.-Nicolas-Sarkozy-preside.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_16_Portrait-de-M.-Nicolas-Sarkozy-preside.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_17_Photo_Francois_Hollande.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_17_Photo_Francois_Hollande.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_17_Macron.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_17_Macron.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_14_Fiche_Presidents..original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-vème-république/les-présidents-de-la-vème-république/SLIDE_14_Fiche_Presidents..original.jpg"
               }
             ],
             "children": []
@@ -9085,6 +9555,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "C’est une grande avancée en termes d’égalité des droits.",
                 "cn": "这是权利平等方面的重大进步。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-vème-république/focus-sur-la-vème-république-_-le-mariage-pour-tous/mariage-union.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-vème-république/focus-sur-la-vème-république-_-le-mariage-pour-tous/mariage-union.original.png"
               }
             ],
             "children": []
@@ -9231,6 +9706,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Empires allemands et Austro-Hongrois et l’Italie (Triple-Alliance).",
                 "cn": "德意志帝国、奥匈帝国及意大利（同盟国）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/la-première-guerre-mondiale-(1914-1918)-_-le-contexte/slide_1ere_GM_Dans_les_tranchees_soldats_dans_l.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/la-première-guerre-mondiale-(1914-1918)-_-le-contexte/slide_1ere_GM_Dans_les_tranchees_soldats_dans_l.original.jpg"
               }
             ],
             "children": []
@@ -9329,6 +9809,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "En Europe, d’importantes vagues sociales éclatent, influencées par la révolution russe.",
                 "cn": "在欧洲，受俄国革命影响，爆发了重大的社会浪潮。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/la-première-guerre-mondiale-(1914-1918)-_-les-conséquences/slide_1ere_GM_2LA_GUERRE_ET_LES_HUMORISTES_EXPO.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/la-première-guerre-mondiale-(1914-1918)-_-les-conséquences/slide_1ere_GM_2LA_GUERRE_ET_LES_HUMORISTES_EXPO.original.jpg"
               }
             ],
             "children": []
@@ -9467,6 +9952,16 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "2 septembre 1945 :capitulation du Japon. Fin de la guerre.",
                 "cn": "1945年9月2日：日本投降。战争结束。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/la-seconde-guerre-mondiale-(1939-1945)-_-le-contexte/frise_1D936oJ.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/la-seconde-guerre-mondiale-(1939-1945)-_-le-contexte/frise_1D936oJ.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/la-seconde-guerre-mondiale-(1939-1945)-_-le-contexte/Soldats_americains_lors_du_debarquement_de_Norm.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/la-seconde-guerre-mondiale-(1939-1945)-_-le-contexte/Soldats_americains_lors_du_debarquement_de_Norm.original.jpg"
               }
             ],
             "children": []
@@ -9620,6 +10115,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Allemagne, Italie, Japon (l’Axe)",
                 "cn": "德国、意大利、日本（轴心国）"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/les-conflits-mondiaux-_-la-seconde-guerre-mondiale-(1939-1945)-(1_3)/debarquement-normandie-6-juin-1944.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/les-conflits-mondiaux-_-la-seconde-guerre-mondiale-(1939-1945)-(1_3)/debarquement-normandie-6-juin-1944.original.jpg"
               }
             ],
             "children": []
@@ -9746,6 +10246,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Winston Churchill : Premier ministre britannique, il mène la \"bataille d’Angleterre\" face aux bombardements allemands",
                 "cn": "温斯顿·丘吉尔：英国首相，领导了对抗德国轰炸的“不列颠战役”"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/les-conflits-mondiaux-_-la-seconde-guerre-mondiale-(1939-1945)-(2_3)/liberation-de-paris-AFP.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/les-conflits-mondiaux-_-la-seconde-guerre-mondiale-(1939-1945)-(2_3)/liberation-de-paris-AFP.original.jpg"
               }
             ],
             "children": []
@@ -9893,6 +10398,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Jean Moulin: figure clé de la Résistance Française",
                 "cn": "让·穆兰：法国抵抗运动的关键人物"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/les-conflits-mondiaux-_-la-seconde-guerre-mondiale-(1939-1945)-(3_3)/carte-france-1ere-guerre-mondiale.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/les-conflits-mondiaux-_-la-seconde-guerre-mondiale-(1939-1945)-(3_3)/carte-france-1ere-guerre-mondiale.original.jpg"
               }
             ],
             "children": []
@@ -9997,6 +10507,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Winston Churchill : Premier ministre britannique, il mène la \"bataille d’Angleterre\" face aux bombardements allemands.",
                 "cn": "温斯顿·丘吉尔：英国首相，在德国轰炸期间领导了“不列颠战役”。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/la-seconde-guerre-mondiale-(1939-1945)-_-les-conséquences/Crowds_of_French_patriots_line_the_Champs_Elyse.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/la-seconde-guerre-mondiale-(1939-1945)-_-les-conséquences/Crowds_of_French_patriots_line_the_Champs_Elyse.original.jpg"
               }
             ],
             "children": []
@@ -10097,6 +10612,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "1960 : indépendance des colonies françaises d’Afrique ainsi que Madagascar.",
                 "cn": "1960年：法国非洲殖民地及马达加斯加独立。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/recomposition-de-l’ordre-mondial-_-la-décolonisation/la_guerre_algerie_1954-1962.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/recomposition-de-l’ordre-mondial-_-la-décolonisation/la_guerre_algerie_1954-1962.original.jpg"
               }
             ],
             "children": []
@@ -10247,6 +10767,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Source : Europa.euCartographie : Dario Ingiusto et Floriane PicardCopyright : DILA 2021, vie-publique.fr",
                 "cn": "来源：Europa.eu制图：Dario Ingiusto与Floriane Picard版权：DILA 2021, vie-publique.fr"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/recomposition-de-l’ordre-mondial-_-la-construction-européenne/EU01_EUROPE_construction_europeenne_2021.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/les-conflits-mondiaux-et-le-nouvel-ordre-mondial/recomposition-de-l’ordre-mondial-_-la-construction-européenne/EU01_EUROPE_construction_europeenne_2021.original.jpg"
               }
             ],
             "children": []
@@ -10546,6 +11071,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Wallis et Futuna",
                 "cn": "瓦利斯和富图纳"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/zoom-sur-/le-territoire-français-dans-le-temps-(1_2)/carte_colonisation.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/zoom-sur-/le-territoire-français-dans-le-temps-(1_2)/carte_colonisation.original.jpg"
               }
             ],
             "children": []
@@ -10645,6 +11175,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "L’esclavage est aboli une première fois en 1794, puis est rétabli par Napoléon en 1802. La traite des noirs est abolie en 1815, puisl’esclavage est définitivement aboli en 1848. En 2001, il est reconnu comme crime contre l’humanité par la loi Taubira.",
                 "cn": "奴隶制于1794年首次废除，但1802年被拿破仑恢复。黑奴贸易于1815年废除，随后奴隶制于1848年最终废除。2001年，《托比拉法》将其认定为危害人类罪。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/zoom-sur-/le-territoire-français-dans-le-temps-(2_2)/colonisation.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/zoom-sur-/le-territoire-français-dans-le-temps-(2_2)/colonisation.original.jpg"
               }
             ],
             "children": []
@@ -10744,6 +11279,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Depuis 1980, plusieurs lois ont été adoptées pour réguler l’immigration et lutter contre l’immigration clandestine.",
                 "cn": "自1980年以来，多项法律被通过以规范移民并打击非法移民。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/zoom-sur-/limmigration/portraits-immigres-italiens.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/zoom-sur-/limmigration/portraits-immigres-italiens.original.jpg"
               }
             ],
             "children": []
@@ -10868,6 +11408,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Philippe Pétain, couramment appelé le maréchal Pétain : chef de l’État français entre 1940 et 1944, il collabore avec l’Allemagne.",
                 "cn": "菲利普·贝当，常称贝当元帅：1940年至1944年间法国国家元首，与德国合作。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/zoom-sur-/focus-sur-la-seconde-guerre-mondiale---la-shoah/Selection_on_the_ramp_at_Auschwitz-Birkenau_194.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/zoom-sur-/focus-sur-la-seconde-guerre-mondiale---la-shoah/Selection_on_the_ramp_at_Auschwitz-Birkenau_194.original.jpg"
               }
             ],
             "children": []
@@ -11074,6 +11619,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Villes principales : Lille, Dunkerque.",
                 "cn": "主要城市：里尔、敦刻尔克。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/zoom-sur-/focus-sur-la-seconde-guerre-mondiale---la-résistance-et-la-libération/carte-france-1ere-guerre-mondiale.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/zoom-sur-/focus-sur-la-seconde-guerre-mondiale---la-résistance-et-la-libération/carte-france-1ere-guerre-mondiale.original.jpg"
               }
             ],
             "children": []
@@ -11796,6 +12346,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Nouvelle-Calédonie (statut particulier)",
                 "cn": "新喀里多尼亚（特殊地位）"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/atlas-de-la-france/le-territoire-de-la-france/SLIDE_36_France_Administrative_REGIONS2021.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/atlas-de-la-france/le-territoire-de-la-france/SLIDE_36_France_Administrative_REGIONS2021.original.jpg"
               }
             ],
             "children": []
@@ -11899,6 +12454,11 @@ export const civicData: Topic[] = [
                 "level": 2,
                 "fr": "Les frontières et l’espace maritime de la France",
                 "cn": "法国的边界与海洋空间"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/atlas-de-la-france/les-frontières-de-la-france/SLIDE_37_france-territoires-espace-maritime-leg.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/atlas-de-la-france/les-frontières-de-la-france/SLIDE_37_france-territoires-espace-maritime-leg.original.jpg"
               }
             ],
             "children": []
@@ -12055,6 +12615,11 @@ export const civicData: Topic[] = [
                 "level": 2,
                 "fr": "Carte des fleuves français",
                 "cn": "法国河流分布图"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/atlas-de-la-france/les-fleuves-français/SLIDE_38_carte-fleuves.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/atlas-de-la-france/les-fleuves-français/SLIDE_38_carte-fleuves.original.jpg"
               }
             ],
             "children": []
@@ -12180,6 +12745,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "66,4 millionsen France métropolitaine2,3 millionsdans les DOM",
                 "cn": "法国本土6640万 海外省230万"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/atlas-de-la-france/la-démographie-française/SLIDE_39_-_INSEE.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/atlas-de-la-france/la-démographie-française/SLIDE_39_-_INSEE.original.jpg"
               }
             ],
             "children": []
@@ -12269,6 +12839,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Les 10 plus grandes métropoles françaises sont les suivantes :",
                 "cn": "法国十大主要大都市如下："
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/atlas-de-la-france/la-france-_-aire-urbaine-et-métropolisation/aire-urbaine.original.png",
+                "cn": "images/histoire,-géographie-et-culture/atlas-de-la-france/la-france-_-aire-urbaine-et-métropolisation/aire-urbaine.original.png"
               }
             ],
             "children": []
@@ -12388,6 +12963,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "C’est pour ces raisons que de plus en plus d’agriculteurs se tournent vers des pratiques plus durables, comme l’agriculture biologique ou les circuits courts.",
                 "cn": "因此，越来越多的农民转向更可持续的实践，如有机农业或短链销售。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/atlas-de-la-france/la-france,-terre-d’agriculture/slide_41_-_Agriculture.original.png",
+                "cn": "images/histoire,-géographie-et-culture/atlas-de-la-france/la-france,-terre-d’agriculture/slide_41_-_Agriculture.original.png"
               }
             ],
             "children": []
@@ -12487,7 +13067,12 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "De nombreuses entreprises investissent dans l’industrie verte, les énergies renouvelables et les usines connectées.",
                 "cn": "许多企业正在投资绿色工业、可再生能源和智能工厂。"
-              }
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/atlas-de-la-france/la-france,-terre-industrielle/10-20-changement-climatique.original.png",
+                "cn": "images/histoire,-géographie-et-culture/atlas-de-la-france/la-france,-terre-industrielle/10-20-changement-climatique.original.png"
+              },
             ],
             "children": []
           },
@@ -12591,6 +13176,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "la dette publique de la France s’élève à 113% du PIB.",
                 "cn": "法国公共债务占GDP的113%。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/atlas-de-la-france/l’économie-française/repartition-des-secteurs-economie-francaise.original.png",
+                "cn": "images/histoire,-géographie-et-culture/atlas-de-la-france/l’économie-française/repartition-des-secteurs-economie-francaise.original.png"
               }
             ],
             "children": []
@@ -12651,6 +13241,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Ces cinq pays représentent à eux seuls les deux tiers de la population européenne.",
                 "cn": "仅这五个国家就占欧洲总人口的三分之二。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-leurope/SLIDE_44_Fr_dans_lEurope.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-leurope/SLIDE_44_Fr_dans_lEurope.original.jpg"
               }
             ],
             "children": []
@@ -12719,6 +13314,16 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Sources photos :(Ouvre une nouvelle fenêtre)Banque de pictogrammes FALC",
                 "cn": "图片来源：（在新窗口中打开）FALC 图标库"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-la-circulation-européenne/SLIDE_45_carrefour-croisement.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-la-circulation-européenne/SLIDE_45_carrefour-croisement.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-la-circulation-européenne/SLIDE_45Camion.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-la-circulation-européenne/SLIDE_45Camion.original.png"
               }
             ],
             "children": []
@@ -12813,6 +13418,16 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Sources photos :(Ouvre une nouvelle fenêtre)Banque de pictogrammes FALC",
                 "cn": "图片来源：（在新窗口中打开）FALC 图标库"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-l’écosystème-naturel-européen/10-3-biocarburant.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-l’écosystème-naturel-européen/10-3-biocarburant.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-l’écosystème-naturel-européen/10-18-protection-environnement.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-l’écosystème-naturel-européen/10-18-protection-environnement.original.png"
               }
             ],
             "children": []
@@ -13028,6 +13643,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "5eproducteur européen de fruits et légumes",
                 "cn": "欧洲第五大水果和蔬菜生产国"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/l’agriculture-française-en-europe/2505_IAA_palmares_INF.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/l’agriculture-française-en-europe/2505_IAA_palmares_INF.original.png"
               }
             ],
             "children": []
@@ -13097,6 +13717,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Devant la France, on retrouve des géants démographiques comme l’Inde et la Chine (1,4 milliard d’habitants chacune) ou les États-Unis (340 millions). Derrière elle, des pays comme l’Italie (59 millions), l’Espagne (49 millions) ou le Canada (41 millions).",
                 "cn": "法国之前有印度和中国（各约14亿人口）或美国（3.4亿人口）等人口大国。其后是意大利（5,900万）、西班牙（4,900万）或加拿大（4,100万）等国家。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-le-monde/france-dans-le-monde.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/la-france-dans-le-monde/france-dans-le-monde.original.jpg"
               }
             ],
             "children": []
@@ -13170,6 +13795,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Elle est unmembre actif de nombreuses organisations internationales: l’Union européenne, l’ONU, mais aussi l’Organisation du Traité de l’Atlantique Nord (OTAN), le G7, le G20, l’Organisation internationale de la Francophonie…",
                 "cn": "它是众多国际组织的积极参与者：包括欧盟、联合国，以及北大西洋公约组织（NATO）、七国集团（G7）、二十国集团（G20）、法语国家国际组织等。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/une-puissance-militaire-et-diplomatique/SLIDE_49_-_Drapeau_fr_ONU.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/une-puissance-militaire-et-diplomatique/SLIDE_49_-_Drapeau_fr_ONU.original.jpg"
               }
             ],
             "children": []
@@ -13329,6 +13959,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Source : Shom - Réalisation : IGN France / Atelier de cartographie thématique. Sur le site de l’IGN.",
                 "cn": "来源：法国海军水文与海洋服务局 - 制作：法国国家地理与林业信息研究所 / 专题制图工作室。发布于法国国家地理与林业信息研究所网站。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/une-puissance-maritime/SLIDE_50_-_France_puissance_maritime.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/une-puissance-maritime/SLIDE_50_-_France_puissance_maritime.original.jpg"
               }
             ],
             "children": []
@@ -13648,6 +14283,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Saint-Pierre-et-Miquelon - Saint-Pierre : port de commerce décentralisé",
                 "cn": "圣皮埃尔和密克隆 - 圣皮埃尔：下放管理的商业港口"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/les-ports-français/Slide_51_-_ports_de_commerce.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/les-ports-français/Slide_51_-_ports_de_commerce.original.jpg"
               }
             ],
             "children": []
@@ -13726,6 +14366,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le secteur aériengénère de nombreux emplois, directs et indirects, grâce à la diversité de ses activités (transport de passagers, fret aérien, maintenance, logistique, sûreté…). Il regroupe une grande variété de métiers : pilotes, mécaniciens, mais aussi contrôleurs aériens, ingénieurs, analystes sécurité, responsables logistiques ou agents d’escale, par exemple.",
                 "cn": "航空业通过其多样化的活动（客运、航空货运、维护、物流、安保等）创造了大量直接和间接就业岗位。它涵盖了多种职业，例如飞行员、机械师，以及空中交通管制员、工程师、安全分析师、物流主管或地勤人员等。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/un-système-aérien-au-cœur-du-réseau-mondial/SLIDE_52_.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/un-système-aérien-au-cœur-du-réseau-mondial/SLIDE_52_.original.png"
               }
             ],
             "children": []
@@ -13788,6 +14433,16 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "C’est aussi un secteur quigénère de nombreux emplois: personnel dans les hôtels et restaurants, guides touristiques, métiers du transport et des activités culturelles… Plus de 2 millions d’emplois sont liés au tourisme en France, directement ou indirectement. Le tourisme contribue au dynamisme des régions, en particulier dans les zones rurales et les petites villes.",
                 "cn": "这也是一个创造大量就业的行业：酒店和餐厅员工、导游、交通和文化活动相关职业……法国有超过200万个就业岗位直接或间接与旅游业相关。旅游业有助于增强地区活力，特别是在农村地区和小城镇。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/une-puissance-touristique/slide_53_culture_6-9-spectacle-vivant.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/une-puissance-touristique/slide_53_culture_6-9-spectacle-vivant.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/une-puissance-touristique/SLIDE_53histoire.original.png",
+                "cn": "images/histoire,-géographie-et-culture/la-france-dans-l'europe-et-dans-le-monde/une-puissance-touristique/SLIDE_53histoire.original.png"
               }
             ],
             "children": []
@@ -13865,6 +14520,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est légèrement inférieur à la moyenne nationale. L’économie est dynamique dans la région lyonnaise, alpine et grenobloise.",
                 "cn": "失业率略低于全国平均水平，里昂、阿尔卑斯及格勒诺布尔地区的经济充满活力。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/auvergne-rhône-alpes/SLIDE_55_Region_ARA-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/auvergne-rhône-alpes/SLIDE_55_Region_ARA-_Metropole.original.png"
               }
             ],
             "children": []
@@ -13934,6 +14594,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est généralement bas, mais varie selon les zones. Plusieurs pôles industriels sont présents dans la région.",
                 "cn": "失业率普遍较低，但各地区存在差异。该大区拥有多个工业中心。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/bourgogne-franche-comté/SLIDE_56_Region_BFC_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/bourgogne-franche-comté/SLIDE_56_Region_BFC_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14003,6 +14668,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est inférieur à la moyenne nationale. Le marché de l’emploi est dynamique dans les grandes villes, notamment dans les secteurs du numérique et des services.",
                 "cn": "失业率低于全国平均水平。主要城市的就业市场活跃，尤其在数字经济和服务业领域。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/bretagne/SLIDE_57_Region_Bretagne_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/bretagne/SLIDE_57_Region_Bretagne_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14072,6 +14742,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est proche de la moyenne nationale. Les zones rurales sont plus fragiles, mais les pôles autour de Tours et Orléans sont dynamiques.",
                 "cn": "失业率接近全国平均水平。农村地区较为脆弱，但图尔和奥尔良周边的城市中心区经济活跃。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/centre-val-de-loire/SLIDE_58_Region_Centre_Val_de_Loire_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/centre-val-de-loire/SLIDE_58_Region_Centre_Val_de_Loire_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14141,6 +14816,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est supérieur à la moyenne nationale, surtout en dehors de la saison touristique. L’économie est fortement liée aux saisons du tourisme.",
                 "cn": "失业率高于全国平均水平，尤其在旅游淡季。经济与旅游季节密切相关。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/corse/SLIDE_59_Region_Corse_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/corse/SLIDE_59_Region_Corse_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14210,6 +14890,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est proche de la moyenne nationale, mais varie selon les territoires. Il est plus élevé dans les zones industrielles en reconversion et plus bas autour de Strasbourg.",
                 "cn": "失业率接近全国平均水平，但各地区存在差异。在转型中的工业区失业率较高，而在斯特拉斯堡周边地区则较低。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/grand-est/SLIDE_60_Region_Grand-Est_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/grand-est/SLIDE_60_Region_Grand-Est_Metropole.original.png"
               }
             ],
             "children": []
@@ -14279,6 +14964,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est supérieur à la moyenne nationale. La région connaît des difficultés liées à son passé industriel, mais certaines villes comme Lille se reconvertissent activement.",
                 "cn": "失业率高于全国平均水平。该地区面临工业历史遗留的困难，但里尔等城市正在积极转型。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/hauts-de-france/SLIDE_61_Region_Hauts-de-France_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/hauts-de-france/SLIDE_61_Region_Hauts-de-France_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14348,6 +15038,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est proche de la moyenne nationale. Il existe de forts contrastes entre l’ouest de la région, plus favorisé, et l’est, plus fragile socialement et économiquement.",
                 "cn": "失业率接近全国平均水平。该大区西部较为富裕，东部在社会和经济上较为脆弱，两者之间存在显著差异。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/île-de-france/SLIDE_62_Region_IdF_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/île-de-france/SLIDE_62_Region_IdF_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14417,6 +15112,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est proche de la moyenne nationale. Les pôles d’activités majeurs sont Caen, Le Havre et Rouen.",
                 "cn": "失业率接近全国平均水平。主要经济活动中心为卡昂、勒阿弗尔和鲁昂。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/normandie/SLIDE_63_Region_Normandie_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/normandie/SLIDE_63_Region_Normandie_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14486,6 +15186,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est inférieur à la moyenne nationale, mais varie fortement selon les départements.",
                 "cn": "失业率低于全国平均水平，但各省份间差异显著。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/nouvelle-aquitaine/SLIDE_64_Region_Nouvelle-Aquitaine_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/nouvelle-aquitaine/SLIDE_64_Region_Nouvelle-Aquitaine_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14555,6 +15260,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est plus élevé que la moyenne nationale. L’économie est dynamique dans les grandes villes, mais plus fragile dans les zones rurales et montagneuses.",
                 "cn": "失业率高于全国平均水平。经济在主要城市充满活力，但在农村和山区则较为脆弱。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/occitanie/SLIDE_65_Region_Occitanie_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/occitanie/SLIDE_65_Region_Occitanie_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14624,6 +15334,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est inférieur à la moyenne nationale. L’économie est dynamique, avec une région attractive et des travailleurs qualifiés.",
                 "cn": "失业率低于全国平均水平，经济充满活力，地区吸引力强且劳动力素质高。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/pays-de-la-loire/SLIDE_66_Region_Pays_de_la_Loire_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/pays-de-la-loire/SLIDE_66_Region_Pays_de_la_Loire_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14693,6 +15408,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est plus élevé que la moyenne nationale, notamment dans les grandes métropoles. Le littoral est dynamique, tandis que l’arrière-pays est confronté à plus de difficultés.",
                 "cn": "失业率高于全国平均水平，尤其在主要大都市区。沿海地区经济活跃，而内陆地区面临更多发展困难。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/provence-alpes-côte-d’azur/SLIDE_67_Region_PACA_-_Metropole.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/provence-alpes-côte-d’azur/SLIDE_67_Region_PACA_-_Metropole.original.png"
               }
             ],
             "children": []
@@ -14762,6 +15482,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est élevé. L’activité économique se concentre autour des services et du commerce.",
                 "cn": "失业率较高。经济活动主要集中在服务业和商业领域。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/guadeloupe/SLIDE_69_Region_Guadeloupe_-_OM.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/guadeloupe/SLIDE_69_Region_Guadeloupe_-_OM.original.png"
               }
             ],
             "children": []
@@ -14831,6 +15556,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est élevé. Le marché de l’emploi est marqué par la saisonnalité touristique et le secteur public.",
                 "cn": "失业率较高。就业市场受旅游季节性和公共部门影响显著。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/martinique/SLIDE_68_Region_Martinique_-_OM.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/martinique/SLIDE_68_Region_Martinique_-_OM.original.png"
               }
             ],
             "children": []
@@ -14900,6 +15630,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est très élevé. Les services et les formations sont difficiles d’accès dans l’intérieur du territoire.",
                 "cn": "失业率非常高。内陆地区的服务和培训资源难以获取。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/guyane/SLIDE_70_Region_Guyane_-_OM.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/guyane/SLIDE_70_Region_Guyane_-_OM.original.png"
               }
             ],
             "children": []
@@ -14969,6 +15704,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est élevé (environ 19 % de la population active). Les inégalités sociales et territoriales sont importantes et l’île dépend fortement des transferts publics.",
                 "cn": "失业率较高（约占劳动人口的19%）。社会与地域不平等现象显著，该岛高度依赖公共财政转移支付。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/la-réunion/SLIDE_72_Region_La_Reunion_-_OM.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/la-réunion/SLIDE_72_Region_La_Reunion_-_OM.original.png"
               }
             ],
             "children": []
@@ -15038,6 +15778,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le taux de chômage est très élevé (environ 35% de la population active). Le niveau de vie est beaucoup plus bas que la moyenne nationale.",
                 "cn": "失业率非常高（约占劳动人口的35%）。生活水平远低于全国平均水平。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/les-régions-françaises/mayotte/SLIDE_71_Region_Mayotte_-_OM.original.png",
+                "cn": "images/histoire,-géographie-et-culture/les-régions-françaises/mayotte/SLIDE_71_Region_Mayotte_-_OM.original.png"
               }
             ],
             "children": []
@@ -15123,6 +15868,16 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Sources photos :(Ouvre une nouvelle fenêtre)Banque de pictogrammes FALC",
                 "cn": "图片来源：（在新窗口中打开）FALC 图标库"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/une-puissance-culturelle/puissance-culturelle3.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/une-puissance-culturelle/puissance-culturelle3.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/une-puissance-culturelle/puissance-culturelle.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/une-puissance-culturelle/puissance-culturelle.original.png"
               }
             ],
             "children": []
@@ -15211,6 +15966,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "encourager la coopération économique au service du développement durable.",
                 "cn": "鼓励为可持续发展服务的经济合作。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-la-langue-française-dans-le-monde/SLIDE_73_Logo_OIF.original.svg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-la-langue-française-dans-le-monde/SLIDE_73_Logo_OIF.original.svg"
               }
             ],
             "children": []
@@ -15275,6 +16035,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Inscrite au patrimoine mondial de l’UNESCO, la gastronomie française est une façon de se rassembler pour un bon repas lors d’événements importants (naissances, mariages, anniversaires…). Autour d’au moins 4 plats, des produits de qualité sont servis sur une table décorée avec du vin sélectionné avec soin.",
                 "cn": "作为联合国教科文组织世界遗产，法国美食是在重要场合（出生、婚礼、生日等）聚共享美餐的一种方式。围绕至少四道菜，优质食材被盛放在装饰精美的餐桌上，佐以精心挑选的葡萄酒。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie/SLIDE_74_Carte_Culture.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie/SLIDE_74_Carte_Culture.original.png"
               }
             ],
             "children": []
@@ -15368,6 +16133,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat : image générée par une intelligence artificielle",
                 "cn": "餐盘：由人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-d’auvergne-rhône-alpes/SLIDE_75_Region_ARA_Gastronomie_et_Monument.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-d’auvergne-rhône-alpes/SLIDE_75_Region_ARA_Gastronomie_et_Monument.original.png"
               }
             ],
             "children": []
@@ -15441,6 +16211,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Sources photos du monument et du plat : images générées par une intelligence artificielle",
                 "cn": "Source photo 古迹和菜肴的图片：由人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-bourgogne-franche-comté/SLIDE_76_Region_BFC_Monument_et_Gastronomie.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-bourgogne-franche-comté/SLIDE_76_Region_BFC_Monument_et_Gastronomie.original.png"
               }
             ],
             "children": []
@@ -15529,6 +16304,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat : image générée par une intelligence artificielle",
                 "cn": "菜肴：由人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-bretagne/SLIDE_77_Region_Bretagne_Monument_et_Gastronomi.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-bretagne/SLIDE_77_Region_Bretagne_Monument_et_Gastronomi.original.png"
               }
             ],
             "children": []
@@ -15612,6 +16392,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat : image générée par une intelligence artificielle",
                 "cn": "菜肴：人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-dans-le-centre-val-de-loire/SLIDE_78_Centre_Val_de_Loire_Monument_et_Gastro.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-dans-le-centre-val-de-loire/SLIDE_78_Centre_Val_de_Loire_Monument_et_Gastro.original.png"
               }
             ],
             "children": []
@@ -15685,6 +16470,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Sources photos du monument et du plat : images générées par une intelligence artificielle",
                 "cn": "Source photo"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-corse/SLIDE_79_Region_Corse_Gastronomie_et_Monument.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-corse/SLIDE_79_Region_Corse_Gastronomie_et_Monument.original.png"
               }
             ],
             "children": []
@@ -15768,6 +16558,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat : image générée par une intelligence artificielle",
                 "cn": "菜肴：由人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-du-grand-est/region-grand-est-gastronomie-monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-du-grand-est/region-grand-est-gastronomie-monument.original.jpg"
               }
             ],
             "children": []
@@ -15851,6 +16646,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat :(Ouvre une nouvelle fenêtre)https://www.hautsdefrance.fr/le-maroilles-14-siecles-de-gout-et-dhistoire/",
                 "cn": "Plat：（在新窗口中打开）https://www.hautsdefrance.fr/le-maroilles-14-siecles-de-gout-et-dhistoire/"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-des-hauts-de-france/region-Hauts-de-France_Gastronomie-Monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-des-hauts-de-france/region-Hauts-de-France_Gastronomie-Monument.original.jpg"
               }
             ],
             "children": []
@@ -15929,6 +16729,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat :(Ouvre une nouvelle fenêtre)https://agriculture.gouv.fr/le-brie-de-meaux-et-le-brie-de-melun-les-deux-fromages-aop-de-la-region-parisienne",
                 "cn": "特色菜肴：(在新窗口中打开)https://agriculture.gouv.fr/le-brie-de-meaux-et-le-brie-de-melun-les-deux-fromages-aop-de-la-region-parisienne"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-d’île-de-france/region-idf-gastronomie-monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-d’île-de-france/region-idf-gastronomie-monument.original.jpg"
               }
             ],
             "children": []
@@ -16022,6 +16827,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat :(Ouvre une nouvelle fenêtre)https://www.inao.gouv.fr/produit/camembert-de-normandie-21884",
                 "cn": "菜肴：（在新窗口中打开）https://www.inao.gouv.fr/produit/camembert-de-normandie-21884"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-normandie/region-normandie-gastronomie-monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-normandie/region-normandie-gastronomie-monument.original.jpg"
               }
             ],
             "children": []
@@ -16105,6 +16915,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat :(Ouvre une nouvelle fenêtre)https://www.produits-de-nouvelle-aquitaine.fr/les-produits-de-nouvelle-aquitaine/viandes/canard-a-foie-gras-du-sud-ouest/",
                 "cn": "美食：(在新窗口中打开)https://www.produits-de-nouvelle-aquitaine.fr/les-produits-de-nouvelle-aquitaine/viandes/canard-a-foie-gras-du-sud-ouest/"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-nouvelle-aquitaine/region-nouvelle-aquitaine-gastronomie-monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-nouvelle-aquitaine/region-nouvelle-aquitaine-gastronomie-monument.original.jpg"
               }
             ],
             "children": []
@@ -16188,6 +17003,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat : image générée par une intelligence artificielle",
                 "cn": "菜肴：由人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-d’occitanie/region-occitanie-gastronomie-monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-d’occitanie/region-occitanie-gastronomie-monument.original.jpg"
               }
             ],
             "children": []
@@ -16271,6 +17091,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat : image générée par une intelligence artificielle",
                 "cn": "菜肴：由人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-des-pays-de-la-loire/pays-de-la-loire-monument-gastronomie.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-des-pays-de-la-loire/pays-de-la-loire-monument-gastronomie.original.png"
               }
             ],
             "children": []
@@ -16354,6 +17179,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat : image générée par une intelligence artificielle",
                 "cn": "菜肴：由人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-provence-alpes-côte-d’azur/region-PACA-gastronomie-monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-provence-alpes-côte-d’azur/region-PACA-gastronomie-monument.original.jpg"
               }
             ],
             "children": []
@@ -16442,6 +17272,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat : image générée par une intelligence artificielle",
                 "cn": "菜肴：由人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-guadeloupe/region-guadeloupe_Gastronomie-Monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-guadeloupe/region-guadeloupe_Gastronomie-Monument.original.jpg"
               }
             ],
             "children": []
@@ -16520,6 +17355,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat : image générée par une intelligence artificielle",
                 "cn": "餐盘：由人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-martinique/region-guadeloupe_Gastronomie-Monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-martinique/region-guadeloupe_Gastronomie-Monument.original.jpg"
               }
             ],
             "children": []
@@ -16603,6 +17443,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Plat : image générée par une intelligence artificielle",
                 "cn": "菜肴：由人工智能生成的图像"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-guyane/region-guyane_Gastronomie-monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-guyane/region-guyane_Gastronomie-monument.original.jpg"
               }
             ],
             "children": []
@@ -16686,6 +17531,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Ilreprésente parfaitement la richesse culinaire de l’île, issue d’un mélange de cultures.",
                 "cn": "它完美体现了岛屿融合多元文化的丰富美食传统。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-la-réunion/region-la-reunion_Gastronomie_et_Monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-la-réunion/region-la-reunion_Gastronomie_et_Monument.original.jpg"
               }
             ],
             "children": []
@@ -16754,6 +17604,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Avec ses produits locaux, le mataba est unvéritable symbole de la cuisine mahoraise.",
                 "cn": "Mataba采用当地食材，是马约特美食的真正象征。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-mayotte/region-Mayotte_Gastronomie-Monument.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-sites-emblématiques-et-gastronomie-de-mayotte/region-Mayotte_Gastronomie-Monument.original.jpg"
               }
             ],
             "children": []
@@ -16872,6 +17727,16 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Molière dans le rôle de CésarNicolas Mignard © Paris Musées / Musée Carnavalet - Histoire de Paris",
                 "cn": "莫里哀饰演凯撒角色\n尼古拉·米尼亚尔 © 巴黎博物馆 / 卡纳瓦莱博物馆 - 巴黎历史博物馆"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(1_3)/jean-de-la-fontaine.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(1_3)/jean-de-la-fontaine.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(1_3)/moliere-carnavalet.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(1_3)/moliere-carnavalet.original.jpg"
               }
             ],
             "children": []
@@ -17016,6 +17881,21 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Portrait de George SandNadar - MLC 1983.1.164 © Musée George Sand et la Vallée Noire – La Châtre",
                 "cn": "乔治·桑肖像 Nadar - MLC 1983.1.164 © 乔治·桑与黑谷博物馆 – 拉沙特尔"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(2_3)/victor-hugo.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(2_3)/victor-hugo.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(2_3)/baudelaire.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(2_3)/baudelaire.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(2_3)/georges-sand.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(2_3)/georges-sand.original.jpg"
               }
             ],
             "children": []
@@ -17170,6 +18050,21 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Portrait de Marguerite YourcenarGrendel Bernhard en 1982",
                 "cn": "玛格丽特·尤瑟纳尔的肖像Grendel Bernhard 于1982年"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(3_3)/simone-beauvoir.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(3_3)/simone-beauvoir.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(3_3)/albert-camus.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(3_3)/albert-camus.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(3_3)/Marguerite_Yourcenar.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-auteurs-(3_3)/Marguerite_Yourcenar.original.jpg"
               }
             ],
             "children": []
@@ -17360,6 +18255,26 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Portrait d'Auguste RenoirInconnu, Musée d'Orsay, Dist. RMN-Grand Palais / Patrice Schmidt",
                 "cn": "奥古斯特·雷诺阿肖像未知，奥赛博物馆，Dist. RMN-Grand Palais / Patrice Schmidt"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-peintres/eugene_delacroix.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-peintres/eugene_delacroix.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-peintres/paul-cezane.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-peintres/paul-cezane.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-peintres/claude-monet.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-peintres/claude-monet.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-peintres/auguste-renoir.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-peintres/auguste-renoir.original.jpg"
               }
             ],
             "children": []
@@ -17468,6 +18383,16 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Portrait d'Edith PiafStudio Harcourt - RMN",
                 "cn": "艾迪特·皮雅芙肖像，Studio Harcourt - RMN"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-dans-l’univers-de-la-musique/claude-debussy.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-dans-l’univers-de-la-musique/claude-debussy.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-dans-l’univers-de-la-musique/edith-piaf.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-dans-l’univers-de-la-musique/edith-piaf.original.jpg"
               }
             ],
             "children": []
@@ -17581,6 +18506,16 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Portrait de Camille ClaudelMusée Camille Claudel / Marco Illuminati / Didier Guy / Yves Bourel",
                 "cn": "卡米耶·克洛岱尔肖像卡米耶·克洛岱尔博物馆 / Marco Illuminati / Didier Guy / Yves Bourel"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-sculpteurs/Auguste_Rodin_by_George_Charles_Beresford_NPG_x.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-sculpteurs/Auguste_Rodin_by_George_Charles_Beresford_NPG_x.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-sculpteurs/camille_claudel.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-parmi-les-sculpteurs/camille_claudel.original.jpg"
               }
             ],
             "children": []
@@ -17689,6 +18624,16 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Portrait de Joséphine Baker (détail)Studio Harcourt © Studio Harcourt / Wikimédia Commons- 1940",
                 "cn": "约瑟芬·贝克肖像（局部）哈考特工作室 © Studio Harcourt / 维基共享资源 - 1940年"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-devenus-français/800px-Marc_Chagall_1941.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-devenus-français/800px-Marc_Chagall_1941.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-devenus-français/Baker_Harcourt_1940_2.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-des-artistes-emblématiques-devenus-français/Baker_Harcourt_1940_2.original.jpg"
               }
             ],
             "children": []
@@ -17762,6 +18707,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "le label“Les Plus Beaux Villages de France”valorise les communes qui préservent leur patrimoine architectural et culturel, grâce à l’engagement direct des habitants et des élus locaux pourmaintenir l’authenticité des lieux.",
                 "cn": "‘法国最美村庄’标签表彰那些通过居民和地方官员的直接努力来保护建筑与文化遗产、维护场所原真性的市镇。"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-le-citoyen,-acteur-et-conservateur-de-la-culture-en-france/cathedrale-notre-dame-le_choeur_est_bache.original.jpg",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-le-citoyen,-acteur-et-conservateur-de-la-culture-en-france/cathedrale-notre-dame-le_choeur_est_bache.original.jpg"
               }
             ],
             "children": []
@@ -17885,6 +18835,16 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Pictogramme(Ouvre une nouvelle fenêtre)Banque de pictogrammes FALC",
                 "cn": "图示（在新窗口中打开）FALC图示库"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-l’accès-à-la-culture/Slide_101_-reseaux-sociaux.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-l’accès-à-la-culture/Slide_101_-reseaux-sociaux.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-l’accès-à-la-culture/Logo_du_Pass_Culture.original.png",
+                "cn": "images/histoire,-géographie-et-culture/culture/patrimoine-français-_-l’accès-à-la-culture/Logo_du_Pass_Culture.original.png"
               }
             ],
             "children": []
@@ -17980,6 +18940,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Quand vous changez de logement, le changement d’adresse doit être fait le plus rapidement possible (3 mois maximum après le déménagement) :",
                 "cn": "当您更换住所时，应尽快完成地址变更（搬家后最多3个月内）："
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-du-quotidien-comme-la-domiciliation/SLIDE_1-courrier.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-du-quotidien-comme-la-domiciliation/SLIDE_1-courrier.original.png"
               }
             ],
             "children": []
@@ -18084,6 +19049,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "La Banque de France gère des services à l’économie : droit au compte, accompagnement des personnes en surendettement… ainsi que la stratégie monétaire et assure la stabilité des prix.",
                 "cn": "法国央行管理经济服务：账户权、协助过度负债人群……以及制定货币政策并确保物价稳定。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-du-quotidien-comme-l’ouverture-d’un-compte-bancaire/SLIDE_2_banque.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-du-quotidien-comme-l’ouverture-d’un-compte-bancaire/SLIDE_2_banque.original.png"
               }
             ],
             "children": []
@@ -18166,6 +19136,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Une fois le permis de conduire obtenu, il est nécessaire de prendre une assurance avant de pouvoir conduire sa voiture.",
                 "cn": "获得驾驶执照后，必须在驾驶汽车前购买保险。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-du-quotidien-comme-le-permis-de-conduire-(1_2)/Slide_3_assurance.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-du-quotidien-comme-le-permis-de-conduire-(1_2)/Slide_3_assurance.original.png"
               }
             ],
             "children": []
@@ -18263,6 +19238,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Si votre permisn’est pas échangeableou biensi l’échange du permis n’a pas été réalisé au bout d’1 an, vous devez passer le permis de conduire français pour continuer de conduire en France.",
                 "cn": "获得延期培训证明（API）的日期；"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-du-quotidien-comme-le-permis-de-conduire-(2_2)/Slide_4prefecture-logo.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-du-quotidien-comme-le-permis-de-conduire-(2_2)/Slide_4prefecture-logo.original.jpg"
               }
             ],
             "children": []
@@ -18351,6 +19331,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "L’assurance responsabilité est payante : comparez les offres des assurances selon vos besoins spécifiques.",
                 "cn": "民事责任保险是付费的：请根据您的具体需求比较不同保险公司的报价。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-du-quotidien-comme-l’assurance-responsabilité-civile/SLIDE_5formalites-administratives.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-du-quotidien-comme-l’assurance-responsabilité-civile/SLIDE_5formalites-administratives.original.png"
               }
             ],
             "children": []
@@ -18445,6 +19430,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "C’est votre première déclaration ? Créez un compte fiscal ou demandez votre numéro fiscal à votre centre des impôts.",
                 "cn": "首次申报？请创建税务账户或向税务中心申请税号。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/limpôt-en-france-et-la-déclaration-de-revenus/SLIDE_6_impot.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/limpôt-en-france-et-la-déclaration-de-revenus/SLIDE_6_impot.original.png"
               }
             ],
             "children": []
@@ -18548,6 +19538,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "3. déposer le dossier complet, au moins 6 mois avant la fin de validité du titre de séjour.",
                 "cn": "3. 在居留证有效期结束前至少6个月提交完整申请材料。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-relatives-au-séjour-en-france/SLIDE_7_communication-electronique.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-relatives-au-séjour-en-france/SLIDE_7_communication-electronique.original.png"
               }
             ],
             "children": []
@@ -18652,6 +19647,16 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "LogoGouvernement",
                 "cn": "政府徽标"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-d’accès-à-la-nationalité-française/SLIDE_8.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-d’accès-à-la-nationalité-française/SLIDE_8.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-d’accès-à-la-nationalité-française/republique-francaise.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-d’accès-à-la-nationalité-française/republique-francaise.original.png"
               }
             ],
             "children": []
@@ -18750,6 +19755,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "le livret de famille pour y inscrire l'enfant, si les parents possèdent déjà un livret.",
                 "cn": "若父母已有家庭手册，需携带该手册以登记孩子信息。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/la-déclaration-de-naissance/declaration-naissance.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/la-déclaration-de-naissance/declaration-naissance.original.png"
               }
             ],
             "children": []
@@ -18859,6 +19869,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Un acte de mariage français et un livret de famille vous seront ensuite remis.",
                 "cn": "随后将获得法国结婚证和家庭手册。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/la-déclaration-de-mariage/mariage-union.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/la-déclaration-de-mariage/mariage-union.original.png"
               }
             ],
             "children": []
@@ -18957,6 +19972,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "de la personne décédée.",
                 "cn": "逝者的身份证件。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/la-déclaration-de-décès/decla_deces.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/la-déclaration-de-décès/decla_deces.original.jpg"
               }
             ],
             "children": []
@@ -19040,6 +20060,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "par le locataire, à tout moment, en respectant le délai de préavisde 3 mois(qui est la durée minimale entre la notification et la fin du contrat effectif). Le préavis estde 1 moissous certaines conditions (si le logement est meublé, si le logement est situé en zone tendue, en cas de problème de santé, en cas de changement professionnel…).",
                 "cn": "承租人可随时终止，但需遵守3个月的预先通知期（即通知日至实际合同终止日的最短间隔）。在特定情况下（如带家具住房、紧张区域住房、健康问题、职业变动等），预先通知期可缩短为1个月。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-relatives-au-logement-(1_2)/SLIDE_12_famille-maison.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-relatives-au-logement-(1_2)/SLIDE_12_famille-maison.original.png"
               }
             ],
             "children": []
@@ -19147,6 +20172,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "utiliser paisiblement les lieux et respecter le \"règlement de copropriété\".",
                 "cn": "安宁使用房屋并遵守“物业管理规定”。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-relatives-au-logement-(2_2)/SLIDE_13_siganture-papier.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/les-démarches-relatives-au-logement-(2_2)/SLIDE_13_siganture-papier.original.png"
               }
             ],
             "children": []
@@ -19341,6 +20371,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Service-Public.fr",
                 "cn": "法国公共服务网"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/démarches-administratives/annexe-_-les-numéros-d’urgence/SLIDE_14_numero_urgence.original.png",
+                "cn": "images/vivre-dans-la-société-française/démarches-administratives/annexe-_-les-numéros-d’urgence/SLIDE_14_numero_urgence.original.png"
               }
             ],
             "children": []
@@ -19425,6 +20460,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Source :(Ouvre une nouvelle fenêtre)Banque de pictogrammes FALC",
                 "cn": "来源：（在新窗口中打开）FALC 图标库"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-le-parcours-de-santé/profession-medicale.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-le-parcours-de-santé/profession-medicale.original.png"
               }
             ],
             "children": []
@@ -19513,6 +20553,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "réservezun rendez-vous en ligne sur la plateforme de votre médecin (exemple :(Ouvre une nouvelle fenêtre)Doctolib,(Ouvre une nouvelle fenêtre)Maiia…).",
                 "cn": "在您医生的平台上在线预约（例如：Doctolib、Maiia…）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-le-médecin-généraliste/SLIDE_16_et_17_soins-de-sante.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-le-médecin-généraliste/SLIDE_16_et_17_soins-de-sante.original.png"
               }
             ],
             "children": []
@@ -19611,6 +20656,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le délai d’attente est souvent plus long, sauf en cas d’urgence.",
                 "cn": "等待时间通常较长，除非是紧急情况。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-le-médecin-spécialiste/SLIDE_16_et_17_soins-de-sante.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-le-médecin-spécialiste/SLIDE_16_et_17_soins-de-sante.original.png"
               }
             ],
             "children": []
@@ -19693,6 +20743,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Pour la santé mentale des enfants: les centres médico-psychologiques enfants et adolescents (CMPEA) ou Centres médico-psychopédagogiques (CMPP).",
                 "cn": "儿童心理健康服务：儿童青少年医疗心理中心（CMPEA）或医疗心理教育中心（CMPP）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-les-structures-d’accueil-gratuites/affiche-pass.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-les-structures-d’accueil-gratuites/affiche-pass.original.jpg"
               }
             ],
             "children": []
@@ -19776,6 +20831,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Retrouvez tous les numéros d’urgence dansla fiche ANNEXE dédiée.",
                 "cn": "所有紧急号码请查阅专用附录文件。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-services-et-numéros-d’urgence/urgences.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-services-et-numéros-d’urgence/urgences.original.png"
               }
             ],
             "children": []
@@ -19874,6 +20934,16 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Photo(Ouvre une nouvelle fenêtre)Site du Ministère des Solidarités",
                 "cn": "Photo（在新窗口中打开）法国团结部网站"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/la-prise-en-charge-_-les-différentes-couvertures-maladie/assurance-maladie.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/santé/la-prise-en-charge-_-les-différentes-couvertures-maladie/assurance-maladie.original.jpg"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/la-prise-en-charge-_-les-différentes-couvertures-maladie/complementaire-sante-solidaire.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/santé/la-prise-en-charge-_-les-différentes-couvertures-maladie/complementaire-sante-solidaire.original.jpg"
               }
             ],
             "children": []
@@ -19951,6 +21021,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Pour savoir où est la pharmacie de garde la plus proche de chez vous, prenez contact avec la gendarmerie ou la police (17) ou appelez le 32 37 (0,35 €/minute).",
                 "cn": "要查询离您最近的值班药房位置，请联系宪兵队或警察局（17），或拨打32 37（每分钟0.35欧元）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-les-médecins-et-pharmacies-de-garde/sante.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/accès-aux-soins-_-les-médecins-et-pharmacies-de-garde/sante.original.png"
               }
             ],
             "children": []
@@ -20013,6 +21088,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Elle ne peut pas être prolongée de 45 jours comme la PUMa.",
                 "cn": "该保险无法像PUMa那样延长45天。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/santé-_-la-prise-en-charge-en-cas-de-renouvellement-du-titre-de-séjour/profession-medicale.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/santé-_-la-prise-en-charge-en-cas-de-renouvellement-du-titre-de-séjour/profession-medicale.original.png"
               }
             ],
             "children": []
@@ -20107,6 +21187,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le compte Ameli: le compte Ameli est l’espace personnel en ligne de l’Assurance Maladie. Il permet de suivre ses remboursements, communiquer avec des conseillers, si besoin, mettre à jour ses informations, envoyer des documents ou encore demander une nouvelle carte Vitale.",
                 "cn": "Ameli账户：Ameli账户是医疗保险的在线个人空间。可用于跟踪报销进度、必要时与顾问沟通、更新个人信息、发送文件或申请新医保卡。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/santé-_-la-prise-en-charge-et-le-remboursement/assurance-maladie.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/santé/santé-_-la-prise-en-charge-et-le-remboursement/assurance-maladie.original.jpg"
               }
             ],
             "children": []
@@ -20139,6 +21224,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Pour avoir la protection universelle maladie (PUMa), enregistrez-vous auprès de la Caisse primaire d’assurance maladie (CPAM), qui fait le lien entre les bénéficiaires (résidents français depuis plus de 3 mois) et l’Assurance maladie.Les démarches à effectuer sont les suivantes :",
                 "cn": "要获得全民疾病保险（PUMa），需向初级医疗保险基金（CPAM）注册，该机构负责联系受益人（在法国居住超过3个月的居民）与医疗保险。需完成的步骤如下："
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/la-prise-en-charge-_-les-démarches-pour-accéder-à-la-protection-universelle-maladie-(puma)/assurance-maladie.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/santé/la-prise-en-charge-_-les-démarches-pour-accéder-à-la-protection-universelle-maladie-(puma)/assurance-maladie.original.jpg"
               }
             ],
             "children": []
@@ -20222,6 +21312,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Il est possible d’être suivi par une sage-femme (également pris en charge à 100% dans cette période).",
                 "cn": "可选择由助产士进行监护（此期间同样享受100%报销）。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/santé-_-la-prise-en-charge-durant-la-maternité/aides-sociales.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/santé-_-la-prise-en-charge-durant-la-maternité/aides-sociales.original.png"
               }
             ],
             "children": []
@@ -20457,6 +21552,16 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Il peut être également obtenu gratuitement, sans délai, sur simple demande, auprès du service chargé de l’accueil de l’établissement.",
                 "cn": "也可向机构接待部门免费即时索取。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/santé-_-les-droits-et-les-devoirs-du-patient/picto_parler.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/santé-_-les-droits-et-les-devoirs-du-patient/picto_parler.original.png"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/santé-_-les-droits-et-les-devoirs-du-patient/charte_patient_hospitalise.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/santé/santé-_-les-droits-et-les-devoirs-du-patient/charte_patient_hospitalise.original.jpg"
               }
             ],
             "children": []
@@ -20540,6 +21645,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Le dépistage est proposé en priorité aux personnes les plus à risque de développer une maladie. Il est fait régulièrement, selon un calendrier précis, pour une meilleure surveillance.",
                 "cn": "筛查优先提供给最有可能患病的人群。根据具体时间表定期进行，以便更好地监测。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/prévention-et-promotion-de-la-santé-(1_2)/vaccination.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/prévention-et-promotion-de-la-santé-(1_2)/vaccination.original.png"
               }
             ],
             "children": []
@@ -20618,6 +21728,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Ce dispositif de prévention gratuit est proposé aux plus de 18 ans et peut être réalisé à tout âge. Prenez rendez-vous avec un médecin, un infirmier ou un pharmacien habilité.",
                 "cn": "这项免费预防措施面向18岁以上人群提供，可在任何年龄进行。请与医生、护士或授权药剂师预约。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/prévention-et-promotion-de-la-santé-(2_2)/vaccination.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/prévention-et-promotion-de-la-santé-(2_2)/vaccination.original.png"
               }
             ],
             "children": []
@@ -20731,6 +21846,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "forfait \"MonPsy\" : jusqu’à 8 séances chez un psychologue remboursées sous conditions.",
                 "cn": "“我的心理医生”套餐：符合条件者可报销最多8次心理医生诊疗费用。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/santé/prévention-et-promotion-de-la-santé-_-la-santé-mentale/sante-mentale-psychiatrie.original.png",
+                "cn": "images/vivre-dans-la-société-française/santé/prévention-et-promotion-de-la-santé-_-la-santé-mentale/sante-mentale-psychiatrie.original.png"
               }
             ],
             "children": []
@@ -20837,6 +21957,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "regroupe des informations utiles, par exemple pour créer un CV facilement sans maîtriser le français.",
                 "cn": "整合实用资讯，例如帮助用户在不精通法语的情况下轻松创建简历。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/orientation-(1_5)/SLIDE_FT_32_33_et_34__et_35.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/emploi/orientation-(1_5)/SLIDE_FT_32_33_et_34__et_35.original.jpg"
               }
             ],
             "children": []
@@ -20910,6 +22035,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Votre espace personnel vous permet de gérer vos rendez-vous, envoyer des informations…",
                 "cn": "您的个人空间可用于管理预约、发送信息等。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/orientation-(2_5)/SLIDE_FT_32_33_et_34__et_35.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/emploi/orientation-(2_5)/SLIDE_FT_32_33_et_34__et_35.original.jpg"
               }
             ],
             "children": []
@@ -20993,6 +22123,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "si vous êtes déjà suivi par une Mission locale, c’est elle qui vous aide pour vous inscrire à France Travail et transmet à France Travail vos réponses au questionnaire.",
                 "cn": "若您已接受地方青年就业中心的跟踪服务，该中心将协助您完成法国就业局注册，并向法国就业局转交您的问卷答复。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/orientation-(3_5)/SLIDE_FT_32_33_et_34__et_35.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/emploi/orientation-(3_5)/SLIDE_FT_32_33_et_34__et_35.original.jpg"
               }
             ],
             "children": []
@@ -21056,6 +22191,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Si vous devez renouveler votre document de séjour, vous avez des démarches à faire pour rester inscrit à France Travail.",
                 "cn": "如果您需要更新居留证件，需办理相关手续以保持在法国就业局的注册状态。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/orientation-(4_5)/SLIDE_FT_32_33_et_34__et_35.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/emploi/orientation-(4_5)/SLIDE_FT_32_33_et_34__et_35.original.jpg"
               }
             ],
             "children": []
@@ -21140,6 +22280,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Les ONG et les associations spécialiséesaident les personnes à s’intégrer dans la société française, à apprendre le français et à choisir une orientation professionnelle.",
                 "cn": "非政府组织和专业协会帮助人们融入法国社会、学习法语并选择职业方向。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/orientation-(5_5)/SLIDE_36_types_demploi_contrats_de_travail.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/orientation-(5_5)/SLIDE_36_types_demploi_contrats_de_travail.original.png"
               }
             ],
             "children": []
@@ -21217,6 +22362,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Si le salarié n'est pas signataire du CIR, son employeur peut aussi proposer des formations :il faut se renseigner auprès du service des ressources humaines.",
                 "cn": "若员工未签署《融入合同》（CIR），雇主也可提供培训：需向人力资源部门咨询。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/formation-(1_3)/SLIDE_37.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/formation-(1_3)/SLIDE_37.original.png"
               }
             ],
             "children": []
@@ -21321,6 +22471,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Exemples de métiers réglementés : avocat, médecin, architecte, mécanicien, coiffeur.",
                 "cn": "受监管职业示例：律师、医生、建筑师、机械师、理发师。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/formation-(2_3)/SLIDE_38_et_39_certificat_-diplome.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/formation-(2_3)/SLIDE_38_et_39_certificat_-diplome.original.png"
               }
             ],
             "children": []
@@ -21394,6 +22549,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Responsabilités syndicales.",
                 "cn": "工会职责。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/formation-(3_3)/SLIDE_38_et_39_certificat_-diplome.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/formation-(3_3)/SLIDE_38_et_39_certificat_-diplome.original.png"
               }
             ],
             "children": []
@@ -21517,6 +22677,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "En général, sa durée maximale est de 18 mois.",
                 "cn": "通常，其最长期限为18个月。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/types-demploi-(1_3)/SLIDE_40__et_41contrat.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/types-demploi-(1_3)/SLIDE_40__et_41contrat.original.png"
               }
             ],
             "children": []
@@ -21584,6 +22749,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Attention. Si un contrat de travail comporte uneclause d’exclusivité,cela signifie qu’il est interdit de cumuler ce contrat avec une autre activité professionnelle.",
                 "cn": "注意：若劳动合同包含排他性条款，则意味着禁止在履行该合同期间从事其他职业活动。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/types-demploi-(2_3)/SLIDE_40__et_41contrat.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/types-demploi-(2_3)/SLIDE_40__et_41contrat.original.png"
               }
             ],
             "children": []
@@ -21662,6 +22832,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "Publierdans un journal d’annonces légales.",
                 "cn": "在法定公告报纸上发布公告。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/types-demploi-(3_3)/SLIDE_42-travaux-artisan.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/types-demploi-(3_3)/SLIDE_42-travaux-artisan.original.png"
               }
             ],
             "children": []
@@ -21746,6 +22921,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Internet n’est pas la seule manière de transmettre une candidature. Vous pouvez la remettre en personne dans les locaux de l’entreprise ou pendantun forum / salon professionnel(événement où vous pouvez rencontrer des personnes qui recrutent, parfois spécialisé dans un secteur d’activité : agriculture, industrie, tourisme…).",
                 "cn": "互联网并非唯一的求职申请途径。您还可以亲自前往企业办公场所提交申请，或在职业招聘会/行业展会（可与招聘人员直接交流的活动，有时专注于特定行业领域：农业、工业、旅游业等）上递交。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/recrutement-(1_3)/SLIDE_43_travailleur.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/recrutement-(1_3)/SLIDE_43_travailleur.original.png"
               }
             ],
             "children": []
@@ -21854,6 +23034,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Une personne qui a été embauchée sur la base d’un CV comportant des fausses informations (diplôme, expérience professionnelle…) peut être licenciée.",
                 "cn": "基于含有虚假信息（学历、工作经验等）的简历被录用的人员可能被解雇。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/recrutement-(2_3)/Pictogrammes_DSFR__Document__Document_YQb3wMr.original.svg",
+                "cn": "images/vivre-dans-la-société-française/emploi/recrutement-(2_3)/Pictogrammes_DSFR__Document__Document_YQb3wMr.original.svg"
               }
             ],
             "children": []
@@ -21907,6 +23092,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Pour vous préparer à un rendez-vous d’embauche, n’hésitez pas à vousentraîner à l’oral.Pour cela, faites des simulations avec des personnes proches de vous.",
                 "cn": "为准备招聘面试，不妨进行口头练习。为此，可与亲近之人进行模拟面试。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/recrutement-(3_3)/SLIDE_45_conversation-dialogue.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/recrutement-(3_3)/SLIDE_45_conversation-dialogue.original.png"
               }
             ],
             "children": []
@@ -21980,6 +23170,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Il est possible de travailler dès l'âge de 16 ans. Tout mineur doit y être autorisé par son représentant légal (père ou mère, par exemple), sauf s'il est émancipé.",
                 "cn": "年满16岁即可开始工作。任何未成年人必须获得其法定代表（例如父亲或母亲）的许可，除非其已解除监护。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/le-droit-du-travail-(1_5)/droit-du-travail.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/le-droit-du-travail-(1_5)/droit-du-travail.original.png"
               }
             ],
             "children": []
@@ -22094,6 +23289,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "C’est un lieu de Justice qui décide dans ce type de conflit. Il peut imposer à l’employeur de payer une indemnité au salarié, de le réintégrer dans l’entreprise…",
                 "cn": "这是一个处理此类纠纷的司法机构。它可以强制雇主向雇员支付赔偿金、恢复雇员职位等。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/le-droit-du-travail-(2_5)/SLIDE_47_argent.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/le-droit-du-travail-(2_5)/SLIDE_47_argent.original.png"
               }
             ],
             "children": []
@@ -22202,6 +23402,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Signaler une discrimination n’entraîne aucune sanction, sauf en cas de mensonge.",
                 "cn": "举报歧视行为不会导致任何处罚，除非存在虚假陈述。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/le-droit-du-travail-(3_5)/egalite-homme-femme.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/le-droit-du-travail-(3_5)/egalite-homme-femme.original.png"
               }
             ],
             "children": []
@@ -22280,6 +23485,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Ce service répond à des questions juridiques mais, contrairement à l’inspection du travail, il ne peut pas intervenir dans l’entreprise.",
                 "cn": "该服务解答法律问题，但不同于劳动监察部门，其无权介入企业内部事务。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/le-droit-du-travail-(4_5)/SLIDE_49_chercher-loupe.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/le-droit-du-travail-(4_5)/SLIDE_49_chercher-loupe.original.png"
               }
             ],
             "children": []
@@ -22378,6 +23588,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "S’il a reçu des aides sociales (RSA, CAF…), le salarié risque de devoir les rembourser ou de payer une amende.",
                 "cn": "如果雇员曾领取社会援助（如RSA、CAF等），可能面临退还援助或支付罚款的风险。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/emploi/le-droit-du-travail-(5_5)/SLIDE_50_alerte-danger-rouge.original.png",
+                "cn": "images/vivre-dans-la-société-française/emploi/le-droit-du-travail-(5_5)/SLIDE_50_alerte-danger-rouge.original.png"
               }
             ],
             "children": []
@@ -22530,6 +23745,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Défenseur des droits – République Française",
                 "cn": "权利捍卫者 – 法兰西共和国"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/les-droits-de-lenfant/SLIDE_51_affiche_12-droits-enfant_20211029.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/parentalité/les-droits-de-lenfant/SLIDE_51_affiche_12-droits-enfant_20211029.original.jpg"
               }
             ],
             "children": []
@@ -22602,6 +23822,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Chacun des parents doit participer à nourrir, héberger et répondre aux besoins de leur enfant (loisir, culture).",
                 "cn": "父母双方均应共同承担抚养、住宿及满足子女需求（如休闲、文化）的责任。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/exercice-de-l’autorité-parentale-(1_2)/SLIDE__52_et_53_et_54_et_59_famille_.original.png",
+                "cn": "images/vivre-dans-la-société-française/parentalité/exercice-de-l’autorité-parentale-(1_2)/SLIDE__52_et_53_et_54_et_59_famille_.original.png"
               }
             ],
             "children": []
@@ -22675,6 +23900,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "en cas de retrait de l’autorité parentale.",
                 "cn": "在亲权被撤销的情况下。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/exercice-de-l’autorité-parentale-(2_2)/SLIDE__52_et_53_et_54_et_59_famille_.original.png",
+                "cn": "images/vivre-dans-la-société-française/parentalité/exercice-de-l’autorité-parentale-(2_2)/SLIDE__52_et_53_et_54_et_59_famille_.original.png"
               }
             ],
             "children": []
@@ -22773,6 +24003,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Exemple : le parent peut conserver ses droits sur les biens de l’enfant, ses droits et devoirs de surveillance et d'éducation.",
                 "cn": "示例：父母可保留对子女财产的权利，以及监督和教育子女的权利与义务。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/retrait-de-l’autorité-parentale/SLIDE__52_et_53_et_54_et_59_famille_.original.png",
+                "cn": "images/vivre-dans-la-société-française/parentalité/retrait-de-l’autorité-parentale/SLIDE__52_et_53_et_54_et_59_famille_.original.png"
               }
             ],
             "children": []
@@ -22845,6 +24080,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "À domicile.Les parents emploient directement une personne qui vient garder l’enfant chez eux. Cette solution est plus chère que les autres et moins encadrée.",
                 "cn": "家庭托管。家长直接雇佣人员上门照看儿童。此方案费用较高且监管较少。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/les-modes-de-garde-des-enfants-de-moins-de-3-ans/SLIDE_55_creche.original.png",
+                "cn": "images/vivre-dans-la-société-française/parentalité/les-modes-de-garde-des-enfants-de-moins-de-3-ans/SLIDE_55_creche.original.png"
               }
             ],
             "children": []
@@ -22948,6 +24188,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Après 16 ans, l’école n’est plus obligatoire mais tous les enfants peuvent poursuivre leurs études. Il existe de nombreuses possibilités : apprentissage (agriculture, bâtiment…), université (sport, langues, sciences…), écoles d’ingénieur, écoles de commerce…",
                 "cn": "16岁后教育虽非强制，但所有学生均可继续学业。存在多种选择：学徒制（农业、建筑等）、大学（体育、语言、科学等）、工程师学院、商学院等。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/le-système-éducatif/SLIDE_56_et_57_enseignements-fondammentaux.original.png",
+                "cn": "images/vivre-dans-la-société-française/parentalité/le-système-éducatif/SLIDE_56_et_57_enseignements-fondammentaux.original.png"
               }
             ],
             "children": []
@@ -23041,6 +24286,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Les motifs sont très encadrés par la loi.",
                 "cn": "相关理由受法律严格规范。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/la-liberté-de-choisir-l’école-de-son-enfant/SLIDE_56_et_57_enseignements-fondammentaux.original.png",
+                "cn": "images/vivre-dans-la-société-française/parentalité/la-liberté-de-choisir-l’école-de-son-enfant/SLIDE_56_et_57_enseignements-fondammentaux.original.png"
               }
             ],
             "children": []
@@ -23103,6 +24353,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Une fois qu’il maîtrise le français, il peut suivre les mêmes cours que les autres enfants.",
                 "cn": "一旦掌握法语，他们便可与其他儿童学习相同的课程。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/lécole-pour-les-enfants-allophones/SLIDE_58_Unicef_Allophones_c2_RVB-1536x1097.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/parentalité/lécole-pour-les-enfants-allophones/SLIDE_58_Unicef_Allophones_c2_RVB-1536x1097.original.jpg"
               }
             ],
             "children": []
@@ -23206,6 +24461,11 @@ export const civicData: Topic[] = [
                 "type": "list-item",
                 "fr": "en se présentant aux élections de représentants des parents d’élèves. Les représentants des parents d’élèves participent aux décisions importantes concernant l’organisation de l’école.",
                 "cn": "参选家长代表。家长代表参与学校组织的重要决策。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/les-devoirs-et-le-rôle-des-parents-à-l’école/SLIDE__52_et_53_et_54_et_59_famille_.original.png",
+                "cn": "images/vivre-dans-la-société-française/parentalité/les-devoirs-et-le-rôle-des-parents-à-l’école/SLIDE__52_et_53_et_54_et_59_famille_.original.png"
               }
             ],
             "children": []
@@ -23335,6 +24595,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Pour trouver l’adresse de l’atelier le plus proche de chez vous, consultez ce site :(Ouvre une nouvelle fenêtre)http://www.intercariforef.org/formations/recherche-formations-dian.html",
                 "cn": "要查找离您最近的工作坊地址，请访问此网站：（在新窗口中打开）http://www.intercariforef.org/formations/recherche-formations-dian.html"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/le-dispositif-oepre/SLIDE_60_aux-parents-pour-la-reussite-des-enfan.original.png",
+                "cn": "images/vivre-dans-la-société-française/parentalité/le-dispositif-oepre/SLIDE_60_aux-parents-pour-la-reussite-des-enfan.original.png"
               }
             ],
             "children": []
@@ -23443,6 +24708,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Cette charte établit les principes applicables aux actions de soutien à la parentalité en application de l’article L. 214-1-2 du code de l’action sociale et des familles.",
                 "cn": "本宪章根据《社会行动与家庭法典》第L. 214-1-2条，确立了适用于育儿支持行动的原则。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/le-soutien-à-la-parentalité-(1_2)/SLIDE_61_et_62_charte_nationale_de_soutien_a_la.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/parentalité/le-soutien-à-la-parentalité-(1_2)/SLIDE_61_et_62_charte_nationale_de_soutien_a_la.original.jpg"
               }
             ],
             "children": []
@@ -23556,6 +24826,11 @@ export const civicData: Topic[] = [
                 "type": "paragraph",
                 "fr": "Cette charte établit les principes applicables aux actions de soutien à la parentalité en application de l’article L. 214-1-2 du code de l’action sociale et des familles.",
                 "cn": "本宪章根据《社会行动与家庭法典》第L.214-1-2条规定了适用于支持父母育儿行动的原则。"
+              },
+              {
+                "type": "image",
+                "fr": "images/vivre-dans-la-société-française/parentalité/le-soutien-à-la-parentalité-(2_2)/SLIDE_61_et_62_charte_nationale_de_soutien_a_la.original.jpg",
+                "cn": "images/vivre-dans-la-société-française/parentalité/le-soutien-à-la-parentalité-(2_2)/SLIDE_61_et_62_charte_nationale_de_soutien_a_la.original.jpg"
               }
             ],
             "children": []
