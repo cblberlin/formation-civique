@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # 法国公民考试内容 - 中法双语版
 
 [![GitHub](https://img.shields.io/badge/GitHub-查看源码-181717?style=flat-square&logo=github)](https://github.com/cblberlin/formation-civique)
