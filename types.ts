@@ -1,6 +1,10 @@
+export type BlockType = 'paragraph' | 'heading' | 'intro-box' | 'list-item' | 'image' | 'callout';
+
 export interface ContentBlock {
-  fr: string[];
-  cn: string[];
+  type: BlockType;
+  fr: string;
+  cn: string;
+  level?: number; // For headings (1, 2, 3)
 }
 
 export interface Topic {
@@ -9,8 +13,8 @@ export interface Topic {
   titleCN: string;
   type: 'category' | 'topic';
   url?: string;
-  keyPoints?: string[]; // Chinese key points for exam prep
-  content?: ContentBlock;
+  // We removed keyPoints as requested
+  content?: ContentBlock[]; 
   children?: Topic[];
 }
 
